@@ -26,13 +26,13 @@
     - [Staff](./docs/applications/Staff.md)
     - [Builder](./docs/applications/Builder.md)
 8. [Form Templates](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose)
-    - [Ban Appeal](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=ban-appeal.md&title=)
-    - [Bug Report](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=bug-report.md&title=d)
-    - [Building Application](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Builder+Application&projects=&template=builder-application.md&title=)
-    - [Complaints](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=complaints.md&title=)
-    - [Player Report](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=player-report.md&title=)
-    - [Server Suggestions](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=server-suggestions.md&title=)
-    - [Staff Application](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Staff+Application&projects=&template=staff-application.md&title=Staff+Application)
+    - [Ban Appeal](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Ban+Appeal&projects=&template=ban-appeal.yaml&title=Ban+Appeal+for%3A+%3Cname%3E)
+    - [Bug Report](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Bug%2CNeeds+Triage&projects=&template=bug-report.yaml&title=%5BBUG%5D+%3Ctitle%3E)
+    - [Building Application](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Builder+Application&projects=&template=builder-application.yaml&title=Builder+Application+for%3A+%3Cname%3E)
+    - [Complaints](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Complaint&projects=&template=complaints.yaml&title=%5BCOMPLAINT%5D+%3Ctitle%3E)
+    - [Player Report](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Report&projects=&template=player-report.yaml&title=%5BREPORT%5D+%3Coffender%3E)
+    - [Server Suggestions](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Suggestion&projects=&template=server-suggestions.yaml&title=SUGGESTION%3A+%3Ctitle%3E)
+    - [Staff Application](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=staff-application%2Cpending%2Cawaiting-review%2Cawaiting-interview&projects=&template=staff-application.yaml&title=Staff+Application+-+%5BYour+Name%5D)
 8. [Contributing](./docs/Contributing.md)
 9. [License](./docs/Licence.md)
  
@@ -81,7 +81,7 @@ Discover all the fantastic perks available on the JeriCraft server by browsing t
 
 ## 📝 Applications 📝
 
-Interested in joining the JeriCraft staff team or becoming a builder? Check out our [Applications](./docs/applications/) section for more information on how to apply.
+Interested in joining the JeriCraft staff team or becoming a builder? Check out our [Applications](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose) section for more information on how to apply.
 
 ## 📝 Form Templates 📝
 We've provided templates for various forms, such as ban appeals, bug reports, and server suggestions, to help streamline the process of submitting feedback or requests. You can find these templates [here](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose).
