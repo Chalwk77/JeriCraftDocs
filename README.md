@@ -25,6 +25,14 @@
 7. [Applications](./docs/applications/)
     - [Staff](./docs/applications/Staff.md)
     - [Builder](./docs/applications/Builder.md)
+8. [Form Templates](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose)
+    - [Ban Appeal](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=ban-appeal.md&title=)
+    - [Bug Report](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=bug-report.md&title=d)
+    - [Building Application](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Builder+Application&projects=&template=builder-application.md&title=)
+    - [complaints](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=complaints.md&title=)
+    - [Player Report](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=player-report.md&title=)
+    - [Server Suggestions](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=server-suggestions.md&title=)
+    - [Staff Application](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Staff+Application&projects=&template=staff-application.md&title=Staff+Application)
 8. [Contributing](./docs/Contributing.md)
 9. [License](./docs/Licence.md)
  
@@ -40,13 +48,13 @@ covers essential information for new players, such as connecting to the server, 
 
 ## 👥 Player Ranks and Commands 👥
 
-👨‍💼 **Player Commands**:<br>
+- 👨‍💼 **Player Commands**:<br>
 Discover the commands available to players on the JeriCraft server by visiting our [Player Commands Guide](./docs/commands/PLAYER-COMMANDS.md).<br>
 
-👨‍💼👨‍💼 **Staff Commands**:<br>
+- 👨‍💼👨‍💼 **Staff Commands**:<br>
 Explore the commands available to staff members on the JeriCraft server by visiting our [Staff Commands Guide](./docs/commands/STAFF-COMMANDS.md).<br>
 
-🌟 **Perk Commands**:<br>
+- 🌟 **Perk Commands**:<br>
 Learn about the commands associated with JeriCraft's perks by visiting our [Perk Commands Guide](./docs/commands/PERK-COMMANDS.md).
 
 ## 🌟 Server Features and Plugins 🌟
@@ -74,6 +82,9 @@ Discover all the fantastic perks available on the JeriCraft server by browsing t
 ## 📝 Applications 📝
 
 Interested in joining the JeriCraft staff team or becoming a builder? Check out our [Applications](./docs/applications/) section for more information on how to apply.
+
+## 📝 Form Templates 📝
+We've provided templates for various forms, such as ban appeals, bug reports, and server suggestions, to help streamline the process of submitting feedback or requests. You can find these templates [here](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose).
 
 ## 🤝 Contributing 🤝
 
