@@ -14,3 +14,5 @@ JeriCraft is a feature-rich Minecraft server offering a variety of engaging game
 
 ## 🚀 Getting Started 🚀
 To help you dive right into the JeriCraft experience, we've created a [Getting Started Guide](https://github.com/Chalwk77/JeriCraftDocs/wiki/GettingStarted) that covers essential information for new players, such as connecting to the server, understanding basic commands, and accessing the server's features.
+
+
