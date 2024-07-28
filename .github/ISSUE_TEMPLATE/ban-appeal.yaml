@@ -17,6 +17,8 @@ body:
       description: Provide a clear and concise reason why you should be unbanned from the JeriCraft server.
       placeholder: "Write your reason here"
       value: "-"
+    validations:
+      required: true
   - type: textarea
     id: additional-info
     attributes:
@@ -24,6 +26,8 @@ body:
       description: Write any other context or information about your ban appeal here.
       placeholder: "Further context or information here"
       value: "-"
+    validations:
+      required: true
   - type: textarea
     id: contact-info
     attributes:
@@ -31,11 +35,14 @@ body:
       description: Provide your Discord and/or Minecraft Username.
       placeholder: "Discord and/or Minecraft Username: YourUsername"
       value: "-"
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
         **📷 Screenshots**
-        > Include any relevant screenshots here to help illustrate your ban appeal.
+        > Include any relevant screenshots to help illustrate your ban appeal.
+        >
         >
         > 🙌 Thank you
         >
