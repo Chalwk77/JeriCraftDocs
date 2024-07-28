@@ -39,4 +39,4 @@ assignees: Chalwk77
 
 🙌 Thank you
 
-We appreciate your effort in reporting this complaint to help us improve our community experience. Your input is invaluable!**
+**We appreciate your effort in reporting this complaint to help us improve our community experience. Your input is invaluable!**
