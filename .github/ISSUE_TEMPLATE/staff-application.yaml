@@ -30,7 +30,7 @@ body:
   - type: checkboxes
     id: accept-rules
     attributes:
-      label: Do you accept our [community rules](https://discord.com/channels/508458848559038465/758444436551630889)?
+      label: Do you accept our community rules?
       description: Please read and accept our community rules before proceeding.
       options:
         - label: Yes 👍
