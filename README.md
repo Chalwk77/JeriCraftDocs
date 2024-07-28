@@ -29,7 +29,7 @@
     - [Ban Appeal](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=ban-appeal.md&title=)
     - [Bug Report](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=bug-report.md&title=d)
     - [Building Application](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Builder+Application&projects=&template=builder-application.md&title=)
-    - [complaints](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=complaints.md&title=)
+    - [Complaints](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=complaints.md&title=)
     - [Player Report](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=player-report.md&title=)
     - [Server Suggestions](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=&projects=&template=server-suggestions.md&title=)
     - [Staff Application](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Staff+Application&projects=&template=staff-application.md&title=Staff+Application)
