@@ -7,8 +7,8 @@
 
 1. **Do you accept our [community rules](https://discord.com/channels/508458848559038465/758444436551630889)?**
 
-- [ ] Yes
-- [ ] No
+- [ ] Yes 👍
+- [ ] No ❌
 
 ---
 
