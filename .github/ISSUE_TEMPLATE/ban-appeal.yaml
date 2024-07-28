@@ -1,0 +1,42 @@
+name: Builder Application
+description: Create a report to appeal a ban from the JeriCraft server.
+title: "Ban Appeal for: <name>"
+labels: [ "Ban Appeal" ]
+assignees: Chalwk77
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **📌 Describe the reason for your ban**
+        > Provide a clear and concise description of the reason for your ban here.
+        > Use headers (`#`) or lists (`-`) to organize your thoughts.
+  - type: textarea
+    id: why-should-we-unban-you
+    attributes:
+      label: 🔍 Why should we unban you?
+      description: Provide a clear and concise reason why you should be unbanned from the JeriCraft server.
+      placeholder: "Write your reason here"
+      value: ""
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: 📝 Additional context
+      description: Write any other context or information about your ban appeal here.
+      placeholder: "Further context or information here"
+      value: ""
+  - type: textarea
+    id: contact-info
+    attributes:
+      label: ✔️ Contact Information
+      description: Provide your Discord and/or Minecraft Username.
+      placeholder: "Discord and/or Minecraft Username: YourUsername"
+      value: ""
+  - type: markdown
+    attributes:
+      value: |
+        **📷 Screenshots**
+        > Include any relevant screenshots here to help illustrate your ban appeal.
+
+        🙌 Thank you
+
+        **We appreciate your effort in appealing your ban from the JeriCraft server. Your input is invaluable!**
