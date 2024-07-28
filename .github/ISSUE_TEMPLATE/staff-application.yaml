@@ -41,6 +41,7 @@ body:
         👑 **Owner**: The highest rank in the JeriCraft hierarchy, Owners have access to all staff commands (👑) and are
           responsible for overseeing the entire server. Each staff rank inherits the commands and permissions of the ranks below
           it, ensuring an organized and efficient staff structure for the best possible player experience.
+          ---
   - type: checkboxes
     id: accept-rules
     attributes:

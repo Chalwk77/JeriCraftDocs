@@ -41,6 +41,7 @@ body:
         - 📝 Must read and agree to our [community rules](https://discord.com/channels/508458848559038465/758444436551630889).
 
         **⚠️Do not make an application if you don't meet these requirements. You will be denied.⚠️️**
+        ---
   - type: checkboxes
     id: accept-rules
     attributes:
