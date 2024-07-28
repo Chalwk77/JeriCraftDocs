@@ -1,24 +1,32 @@
 ## 🎮 JeriCraft New Player Guide 🌟
 
-Welcome to JeriCraft, an immersive Minecraft experience tailored to provide hours of enjoyment and excitement! Our
-server offers a variety of features and commands to make your gameplay experience truly unique. This guide will help you
-get started on your JeriCraft adventure!
+Welcome to JeriCraft, an immersive Minecraft experience tailored to provide hours of enjoyment and excitement! Our server offers a variety of features and commands to make your gameplay experience truly unique. This guide will help you  get started on your JeriCraft adventure!
 
-Essential Commands
+#### You can join JeriCraft by connecting to `jericraftmc.net` on Minecraft Java Edition (**1.20.1**).<br>
 
-🏡 **/rt** or **/rtp**: Teleports you to a random location in the wild.<br>
-🏡 **/sethome**: Sets your current location as your home.<br>
-🏡 **/home**: Returns you to your set home location.<br>
-🎒 **/kit**: View available kits and their contents.<br>
-🎒 **/kit <name>**: Redeem a specific kit.<br>
-💼 **/jobs**: Manage your RPG jobs.<br>
-🎯 **/mcmmo**: View and manage your RPG skills and stats.<br>
-🧪 **/sf guide**: Obtain the Slimedfun guidebook for crafting recipes and information.<br>
-🌐 **/warp**: Teleport to key locations on the server.
+### Essential Commands:
+
+- **Teleportation**
+  - 🏡 `/rt` or `/rtp`: Teleports you to a random location in the wild.<br> 
+  - 🏡 `/sethome**: Sets your current location as your home.<br>
+  - 🏡 `/home`: Returns you to your set home location.<br>
+
+- **Kits and Jobs**<br>
+  - 🎒 `/kit`: View available kits and their contents.<br>
+  - 🎒 `/kit <name>`: Redeem a specific kit.<br>
+  - 💼 `/jobs`: Manage your RPG jobs.<br>
+  - 🎯 `/mcmmo`: View and manage your RPG skills and stats.<br>
+
+- **Slimefun Guide**<br>
+  - 🧪 `/sf guide`: Obtain the Slimedfun guidebook for crafting recipes and information.<br>
+  - 🧪 `/sf wiki`: Access the Slimefun wiki for additional information.<br>
+
+- **Miscellaneous**<br>
+  - 🌐 `/warp`: Teleport to key locations on the server.<br>
+  - 💬 `/msg [player] [message]` - Send a private message to another player.
 
 **Become a Member**
-Join our [Discord community](discord.com/invite/vcyM6epaqg) to unlock additional perks and stay connected with fellow
-JeriCraft players!
+Join our [Discord community](discord.com/invite/vcyM6epaqg) to unlock additional perks and stay connected with fellow JeriCraft players!
 
 **Other Essential Information**
 
