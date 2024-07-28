@@ -14,7 +14,7 @@ JeriCraft is a semi-hardcore SMP/RPG Minecraft server with a focus on Survival, 
 
 ### 🌐 Connect to our Minecraft server (1.20.1) at jericraftmc.net and embark on an epic adventure!
 
-*Join our friendly community and experience the JeriCraft difference today!* :map:
+*Join our friendly community and experience the JeriCraft difference today!* 🗺️
 
 ## **Starter Information:**
 
