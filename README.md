@@ -6,9 +6,9 @@
 
 1. About JeriCraft
 2. Getting Started
-4. Player Ranks and Commands
-5. Staff Ranks and Commands
-3. Server Features and Plugins
+3. Player Ranks and Commands
+4. Staff Ranks and Commands
+5. Server Features and Plugins
 6. Guides
 7. Contributing
 8. Licence
@@ -19,10 +19,10 @@ JeriCraft is a feature-rich Minecraft server offering a variety of engaging game
 ## 🚀 Getting Started 🚀
 To help you dive right into the JeriCraft experience, we've created a [Getting Started Guide](https://github.com/Chalwk77/JeriCraftDocs/wiki/GettingStarted) that covers essential information for new players, such as connecting to the server, understanding basic commands, and accessing the server's features.
 
-# 👥 Player Ranks and Commands 👥
+## 👥 Player Ranks and Commands 👥
 Discover the perks and commands available to players at each rank by checking out our [Player Ranks and Commands Guide](https://github.com/Chalwk77/JeriCraftDocs/wiki/PLAYER-COMMANDS).
 
-# 👥 Staff Ranks and Commands 👥
+## 👥 Staff Ranks and Commands 👥
 To understand the hierarchy and responsibilities of our staff team, take a look at our [Staff Ranks and Commands Guide](https://github.com/Chalwk77/JeriCraftDocs/wiki/STAFF-COMMANDS).
 
 ## 🌟 Server Features and Plugins 🌟
@@ -44,5 +44,5 @@ These guides are designed to help players navigate and enjoy the unique features
 ## 🤝 Contributing 🤝
 We welcome contributions from the JeriCraft community! If you find errors or have suggestions for improving the documentation, please refer to our [Contributing Guidelines](https://github.com/Chalwk77/JeriCraftDocs/wiki/Contributing-Guidelines).
 
-📄 License 📄
+## 📄 License 📄
 All documentation in this repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
