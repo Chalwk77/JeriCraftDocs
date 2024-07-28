@@ -43,8 +43,6 @@ body:
         - Promote player collaboration
         - Encourage social interactions
         - Foster a sense of belonging and shared goals
-    validations:
-      required: true
   - type: textarea
     id: implementation
     attributes:
