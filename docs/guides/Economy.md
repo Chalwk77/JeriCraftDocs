@@ -37,7 +37,7 @@ or buy items directly with the following commands:
 **Creating a Shop with Chest Shop**
 
 To create your own shop using Chest Shop, refer to our
-detailed [ChestShop Tutorial](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/guides/ChestShop.md). The guide
+detailed [ChestShop Tutorial](./docs/guides/ChestShop.md). The guide
 provides
 step-by-step instructions on setting up your shop and customizing it to suit your needs.
 
