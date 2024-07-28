@@ -11,7 +11,7 @@
     - [Player Commands](./docs/commands/PLAYER-COMMANDS.md)
     - [Staff Commands](./docs/commands/STAFF-COMMANDS.md)
     - [Perk Commands](./docs/commands/PERK-COMMANDS.md)
-4. [Server Features and Plugins](./docs/SERVER-FEATURES.md)
+4. [Server Features](./docs/features/Main.md)
 5. [Guides](./docs/guides/)
     - [ChestShop](./docs/guides/ChestShop.md)
     - [Economy](./docs/guides/Economy.md)
@@ -23,8 +23,8 @@
     - [Webstore](./docs/guides/Webstore.md)
 6. [Perks](./docs/perks/PERKS.md)
 7. [Applications](./docs/applications/)
-    - [Staff](./docs/applications/Staff)
-    - [Builder](./docs/applications/Builder)
+    - [Staff](./docs/applications/Staff.md)
+    - [Builder](./docs/applications/Builder.md)
 8. [Contributing](./docs/Contributing.md)
 9. [License](./docs/License.md)
  
@@ -40,15 +40,18 @@ covers essential information for new players, such as connecting to the server, 
 
 ## 👥 Player Ranks and Commands 👥
 
-**Player Commands**: Discover the commands available to players on the JeriCraft server by visiting our [Player Commands Guide](./docs/commands/PLAYER-COMMANDS.md).<br>
+👨‍💼 **Player Commands**:<br>
+Discover the commands available to players on the JeriCraft server by visiting our [Player Commands Guide](./docs/commands/PLAYER-COMMANDS.md).<br>
 
-**Staff Commands**: Explore the commands available to staff members on the JeriCraft server by visiting our [Staff Commands Guide](./docs/commands/STAFF-COMMANDS.md).<br>
+👨‍💼👨‍💼 **Staff Commands**:<br>
+Explore the commands available to staff members on the JeriCraft server by visiting our [Staff Commands Guide](./docs/commands/STAFF-COMMANDS.md).<br>
 
-**Perk Commands**: Learn about the commands associated with JeriCraft's perks by visiting our [Perk Commands Guide](./docs/commands/PERK-COMMANDS.md).
+🌟 **Perk Commands**:<br>
+Learn about the commands associated with JeriCraft's perks by visiting our [Perk Commands Guide](./docs/commands/PERK-COMMANDS.md).
 
 ## 🌟 Server Features and Plugins 🌟
 
-JeriCraft utilizes several plugins to enhance your gameplay experience. We've prepared [detailed documentation](./docs/SERVER-FEATURES.md) for our key plugins to help you make the most out of their features.
+JeriCraft utilizes several plugins to enhance your gameplay experience. We've prepared [detailed documentation](docs/features/Main.md) for our key plugins to help you make the most out of their features.
 
 ## 📚 Guides 📚
 
