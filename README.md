@@ -19,24 +19,25 @@ JeriCraft is a feature-rich Minecraft server offering a variety of engaging game
 ## 🚀 Getting Started 🚀
 
 To help you dive right into the JeriCraft experience, we've created
-a [Getting Started Guide](https://github.com/Chalwk77/JeriCraftDocs/docs/GettingStarted) that covers essential
+a [Getting Started Guide](https://github.com/Chalwk77/JeriCraftDocs/docs/guides/GettingStarted) that covers essential
 information for new players, such as connecting to the server, understanding basic commands, and accessing the server's
 features.
 
 ## 👥 Player Ranks and Commands 👥
 
 Discover the perks and commands available to players at each rank by checking out
-our [Player Ranks and Commands Guide](https://github.com/Chalwk77/JeriCraftDocs/docs/PLAYER-COMMANDS).
+our [Player Ranks and Commands Guide](https://github.com/Chalwk77/JeriCraftDocs/docs/guides/PLAYER-COMMANDS).
 
 ## 👥 Staff Ranks and Commands 👥
 
 To understand the hierarchy and responsibilities of our staff team, take a look at
-our [Staff Ranks and Commands Guide](https://github.com/Chalwk77/JeriCraftDocs/docs/STAFF-COMMANDS).
+our [Staff Ranks and Commands Guide](https://github.com/Chalwk77/JeriCraftDocs/docs/guides/STAFF-COMMANDS).
 
 ## 🌟 Server Features and Plugins 🌟
 
 JeriCraft utilizes several plugins to enhance your gameplay experience. We've
-prepared [detailed documentation](https://github.com/Chalwk77/JeriCraftDocs/docs/SERVER-FEATURES) for our key plugins to
+prepared [detailed documentation](https://github.com/Chalwk77/JeriCraftDocs/docs/guides/SERVER-FEATURES) for our key
+plugins to
 help you make the most out of their features.
 
 ## 📚 Guides 📚
