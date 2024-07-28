@@ -52,6 +52,7 @@ Offenses in this tier may result in a ban of 1 to 2 weeks, depending on severity
 - **Inappropriate Content**: Sharing imagery or text that includes nudity, gore, or offensive content.
 - **Abusive Language**: Directing abusive or disrespectful language towards other players.
 - **Commercial Spam**: Repeatedly advertising external links or unsolicited content.
+
 #### Tier 3: Minor Offenses - Up to 1-week Ban
 Offenses in this tier may result in a ban of up to 1 week, at the staff's discretion.
 
