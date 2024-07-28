@@ -26,7 +26,7 @@
     - [Staff](./docs/applications/Staff.md)
     - [Builder](./docs/applications/Builder.md)
 8. [Contributing](./docs/Contributing.md)
-9. [License](./docs/License.md)
+9. [License](./docs/Licence.md)
  
 ─━━━━━━━━━━━━━━━━━━━━
 
@@ -82,4 +82,4 @@ documentation, please refer to
 our [Contributing Guidelines](./docs/Contributing.md).
 
 ## 📄 License 📄
-View the [license](./docs/Licence.md) for the JeriCraft documentation repository.
+View the [License](./docs/Licence.md) for the JeriCraft documentation repository.
