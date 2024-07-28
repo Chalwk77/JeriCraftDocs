@@ -9,6 +9,14 @@
 - 〔🔄〕server-updates
 - 〔💡〕feedback-and-suggestions
 
+〔✅〕HELP & SUPPORT
+
+- 〔📚〕jeri-docs
+
+🎬 EVENTS
+
+- 〔🎬〕events
+
 〔👥〕MC SOCIAL
 
 - 〔💬〕chatter-box
@@ -16,6 +24,7 @@
 - 〔🖵〕media
 - 〔🖧〕live-server-chat
 - 〔🌟〕introductions
+- 〔🎭〕roleplay
 
 〔🛒〕WEBSTORE
 
@@ -48,6 +57,7 @@ PUBLIC VOICE CHANNELS
 - 〔📙〕plugin-help
 
 〔📰〕 HSP-GITHUB
+
 - 〔📝〕about
 - 〔🔔〕repo-activity
 - 〔🙋〕help
@@ -55,6 +65,7 @@ PUBLIC VOICE CHANNELS
 - 〔🐛〕bug-reports
 
 〔💻〕 CREATIVE CODING
+
 - coding-discussions
 - java_jda
 - lua_discordia
