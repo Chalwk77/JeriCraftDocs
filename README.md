@@ -5,9 +5,9 @@
 ## 📚 Table of Contents 📚
 
 1. [About JeriCraft](#about-jericraft)
-2. [Getting Started](./GettingStarted.md)
+2. [Getting Started](./docs/guides/GettingStarted.md)
 3. [Player Ranks and Commands](#player-ranks-and-commands)
-4. [Staff Ranks and Commands](./StaffCommands.md)
+4. [Staff Ranks and Commands](./docs/guides/StaffCommands.md)
 5. [Server Features and Plugins](#server-features-and-plugins)
 6. [Guides](#guides)
 7. [Contributing](#contributing)
