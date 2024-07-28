@@ -26,7 +26,7 @@ body:
       placeholder: "Further context or information here"
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: contact-info
     attributes:
       label: ✔️ Contact Information
