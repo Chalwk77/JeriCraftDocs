@@ -41,8 +41,8 @@ body:
     id: minecraft-discord-username
     attributes:
       label: 🎮 Minecraft/Discord Username
-      description: Provide your Minecraft or Discord username.
-      placeholder: "Your Minecraft or Discord Username"
+      description: Provide your Minecraft and Discord usernames.
+      placeholder: "Your Minecraft and Discord Usernames"
     validations:
       required: true
   - type: textarea
