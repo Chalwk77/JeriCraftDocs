@@ -4,25 +4,23 @@
 
 ## 📚 Table of Contents 📚
 
-1. About JeriCraft
-2. Getting Started
-3. Player Ranks and Commands
-4. Staff Ranks and Commands
-5. Server Features and Plugins
-6. Guides
-7. Contributing
-8. Licence
+1. [About JeriCraft](#about-jericraft)
+2. [Getting Started](./GettingStarted.md)
+3. [Player Ranks and Commands](#player-ranks-and-commands)
+4. [Staff Ranks and Commands](./StaffCommands.md)
+5. [Server Features and Plugins](#server-features-and-plugins)
+6. [Guides](#guides)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## ✨ About JeriCraft ✨
 JeriCraft is a feature-rich Minecraft server offering a variety of engaging gameplay experiences, including custom content and RPG elements. 🎮 With plugins like Slimefun, Jobs, mcMMO, and Seasons, players can enjoy a dynamic and immersive experience as they explore, build, and level up their skills. 🌍
 
 ## 🚀 Getting Started 🚀
 
-To help you dive right into the JeriCraft experience, we've created
-a [Getting Started Guide](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/guides/GettingStarted.md) that covers
-essential
-information for new players, such as connecting to the server, understanding basic commands, and accessing the server's
-features.
+To help you dive right into the JeriCraft experience, we've created a [Getting Started Guide](./GettingStarted.md) that
+covers essential information for new players, such as connecting to the server, understanding basic commands, and
+accessing the server's features.
 
 ## 👥 Player Ranks and Commands 👥
 
