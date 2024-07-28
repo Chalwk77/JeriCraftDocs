@@ -1,0 +1,53 @@
+name: 🗣️ Submit a Complaint
+description: ⚠️ Report inappropriate behavior or concerns related to the JeriCraft Discord and Minecraft servers.
+title: "[COMPLAINT] <title>"
+labels: [ "Complaint" ]
+assignees: Chalwk77
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **📌 Describe the complaint**
+        > Provide a clear and concise descriptions in the following sections.
+        > Use headers (`#`) or lists (`-`) to organize your thoughts.
+  - type: textarea
+    id: minecraft-discord-username
+    attributes:
+      label: 🎮 Minecraft/Discord Username
+      description: Provide your Minecraft or Discord username.
+      placeholder: "Your Minecraft or Discord Username"
+    validations:
+      required: true
+  - type: textarea
+    id: date-time
+    attributes:
+      label: 🕒 Date and Time of the Incident (if known/applicable)
+      description: Provide the date and time of the incident.
+    validations:
+      required: false
+  - type: textarea
+    id: describe-complaint
+    attributes:
+      label: 📝 Describe the Complaint
+      description: Describe the complaint.
+      placeholder: "Describe the complaint here"
+    validations:
+      required: true
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: 📝 Additional context
+      description: Write any other context or information about your complaint here.
+      placeholder: "Further context or information here"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        **📷 Screenshots**
+        > Include any relevant screenshots to help illustrate your complaint.
+        >
+        >
+        > 🙌 Thank you
+        >
+        > **We appreciate your effort in reporting your complaint from the JeriCraft server. Your input is invaluable!**
