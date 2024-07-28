@@ -30,13 +30,12 @@ Join our [Discord community](discord.com/invite/vcyM6epaqg) to unlock additional
 
 **Other Essential Information**
 
-Discover hundreds of custom items and machines with the Slimefun plugin.<br>
-Level up your skills and abilities with mcMMO and Jobs for unique perks and rewards.<br>
-Explore and conquer a world filled with challenging mobs and bosses.<br>
-Engage in player-driven economy with Chest Shops and Auctions.<br>
-Protect your builds and land with Region Protection.<br>
-Complete custom Quests for unique rewards and a sense of adventure.<br>
-Experience the changing landscape with Realistic Seasons.
+- Discover hundreds of custom items and machines with the Slimefun plugin.<br>
+- Level up your skills and abilities with mcMMO and Jobs for unique perks and rewards.<br>
+- Explore and conquer a world filled with challenging mobs and bosses.<br>
+- Engage in player-driven economy with Chest Shops and Auctions.<br>
+- Protect your builds and land with Region Protection.<br>
+- Complete custom Quests for unique rewards and a sense of adventure.<br>
+- Experience the changing landscape with Realistic Seasons.
 
-We hope this guide helps you get started on your JeriCraft journey! Our friendly community is always here to assist you
-in-game or on Discord. Happy crafting!
+**We hope this guide helps you get started on your JeriCraft journey! Our friendly community is always here to assist you in-game or on Discord. Happy crafting!**
