@@ -1,0 +1,139 @@
+name: Staff Application
+description: Apply to become a staff member on the server.
+title: 'Staff Application - [Your Name]'
+labels:
+  - staff-application
+  - pending
+  - awaiting-review
+  - awaiting-interview
+assignees: Chalwk77
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form is intended for individuals interested in applying for a staff position at JeriCraft. Please take your time to provide detailed and accurate information.
+        
+        Please note that we will review applications as soon as possible, and you will be contacted if your application is selected for further consideration. We appreciate your interest in joining the JeriCraft staff team!
+        
+        We are recruiting!
+
+        **JeriCraft Staff Requirements:**
+
+        - Must be 17 or older.
+        - 🕒 Must be an active member of the community for at least 3 months.
+        - ⏰ Have at least 100 hours of playtime on the server.
+        - ⏱️ Be able to dedicate at least 5 hours a week to the server.
+        - 🎤 Must have a working microphone.
+        - 📝 Must read and agree to our [community rules](https://discord.com/channels/508458848559038465/758444436551630889).
+
+        **⚠️Do not make an application if you don't meet these requirements. You will be denied.⚠️️**
+  - type: checkboxes
+    id: accept-rules
+    attributes:
+      label: Do you accept our [community rules](https://discord.com/channels/508458848559038465/758444436551630889)?
+      description: Please read and accept our community rules before proceeding.
+      options:
+        - label: Yes 👍
+          required: true
+        - label: No ❌
+          required: true
+  - type: input
+    id: minecraft-discord-username
+    attributes:
+      label: 🎮 Minecraft/Discord Username
+      description: Provide your Minecraft or Discord username.
+      placeholder: "Your Minecraft or Discord Username"
+    validations:
+      required: true
+  - type: textarea
+    id: about-yourself
+    attributes:
+      label: 🙋️ Tell us about yourself
+      description: Provide a brief introduction about yourself.
+      placeholder: "Tell us about yourself"
+    validations:
+      required: true
+  - type: input
+    id: age
+    attributes:
+      label: 🎂 Age
+      description: How old are you?
+      placeholder: "Your age"
+    validations:
+      required: true
+  - type: input
+    id: timezone
+    attributes:
+      label: 🌍 Timezone
+      description: What is your timezone?
+      placeholder: "*Please provide your timezone (e.g. UTC-5, GMT+1, etc.).*"
+    validations:
+      required: true
+  - type: textarea
+    id: account-access
+    attributes:
+      label:  Does anyone else have access to your Minecraft account?
+      description: This is important for security reasons. If yes, please explain, otherwise, type "No".
+    validations:
+      required: true
+  - type: textarea
+    id: minecraft-experience
+    attributes:
+      label: 🎮 Minecraft Experience
+      description: Tell us about your experience with Minecraft, including any previous staff positions you've held.
+    validations:
+      required: true
+  - type: textarea
+    id: contribution
+    attributes:
+      label: 🎁 What will you provide to our community if granted moderator status?
+      description: Explain what you can offer to the community as a staff member.
+    validations:
+      required: true
+  - type: textarea
+    id: availability
+    attributes:
+      label: 🕒 Availability
+      description: Provide your availability and the hours you can dedicate to the server.
+      placeholder: "Your availability"
+    validations:
+      required: true
+  - type: textarea
+    id: hacked-client
+    attributes:
+      label: 🚫 Have you ever used a hacked client before?
+      description: If yes, please explain. Otherwise, type "No".
+    validations:
+      required: true
+  - type: textarea
+    id: minecraft-ban
+    attributes:
+      label: ⛔ Have you ever been banned on a Minecraft server?
+      description: If yes, please explain. Otherwise, type "No".
+    validations:
+      required: true
+  - type: textarea
+    id: strengths-weaknesses
+    attributes:
+      label: 💪 What are your strengths and weaknesses?
+      description: Provide details about your strengths and weaknesses.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        **📌 Scenario Questions (test your knowledge)**
+        > This is a test to see if you understand the rules and how to handle situations as a staff member.
+        > 1. *Someone is hacking (fly mod, x-ray, etc.), what do you do?*
+        > 2. *Someone is advertising another server. What do you do?*
+        > 3. Someone is spamming in chat, what do you do?
+        > 4. Someone is being disrespectful to staff or other players, what do you do?
+        > 5. Someone is griefing another player's build, what do you do?
+  - type: textarea
+    id: scenarios
+    attributes:
+      label: 🚨 Scenarios
+      description: Answer the following scenario questions.
+      placeholder: "Answer the following scenario questions."
+    validations:
+      required: true
