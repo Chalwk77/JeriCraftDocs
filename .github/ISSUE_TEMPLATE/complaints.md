@@ -20,8 +20,12 @@ assignees: Chalwk77
 **🎯 Expected behavior**
 > Describe what you expected to happen here in a clear and concise manner.
 
+---
+
 **📷 Screenshots**
 > Include any relevant screenshots here to help illustrate your complaint.
+
+---
 
 **📝 Additional context**
 > Add any other context or information about the problem here.
@@ -31,6 +35,7 @@ assignees: Chalwk77
 **✔️ Contact Information**
 > Discord and/or Minecraft Username: *YourUsername*
 
+---
 
 🙌 Thank you
 
