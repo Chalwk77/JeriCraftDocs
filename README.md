@@ -10,7 +10,7 @@
 4. [Staff Ranks and Commands](./docs/STAFF-COMMANDS.md)
 5. [Server Features and Plugins](./docs/SERVER-FEATURES.md)
 6. [Guides](./docs/guides/)
-7. [Contributing](./docs/Contributing-Guidelines.md)
+7. [Contributing](./docs/Contributing.md)
 7. [Licence](./docs/Licence.md)
 
 ## ✨ About JeriCraft ✨
@@ -74,7 +74,7 @@ These guides are designed to help players navigate and enjoy the unique features
 
 We welcome contributions from the JeriCraft community! If you find errors or have suggestions for improving the
 documentation, please refer to
-our [Contributing Guidelines](./docs/Contributing-Guidelines.md).
+our [Contributing Guidelines](./docs/Contributing.md).
 
 ## 📄 License 📄
 All documentation in this repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
