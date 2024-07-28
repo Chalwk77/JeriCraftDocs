@@ -23,6 +23,7 @@ body:
     attributes:
       label: 🕒 Date and Time of the Incident (if known/applicable)
       description: Provide the date and time of the incident.
+      placeholder: "Date and time of the incident"
     validations:
       required: false
   - type: textarea
