@@ -27,9 +27,19 @@ more information on joining jobs, use `/jobs browse` and `/jobs join <job name>`
 ---
 
 # 🪑 Sit Anywhere! (Members and Above)
+
 As a **Member** or higher rank, you have the ability to **sit** on various surfaces:
 
 - Right-click on a 🔲 carpet block, 📶 stair block, or 🏗️ slab to sit down.
 - Use the `/sit` command to 🦅 **perch** anywhere! Just type it in chat and enjoy the view.
 
 Now you can 🤩 **relax** and show off your rank's 🌟 **exclusive** 🪑 **sitting** 🆓 **perk** anywhere on the server!
+
+---
+
+# 📦 Expanded Ender Chest (27 Slots)
+
+Access a 27-slot 🔮 Ender Chest anywhere on the server with a simple command! As a player, you can use `/ender` to open
+an expanded, convenient storage solution for your adventures.
+
+Now you can **carry** more items and keep your inventory organized with this handy **Ender Chest upgrade**!
