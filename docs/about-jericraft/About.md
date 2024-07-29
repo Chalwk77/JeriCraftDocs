@@ -14,7 +14,7 @@ JeriCraft is a semi-hardcore SMP/RPG Minecraft server with a focus on Survival, 
 🗺️ [Regions](docs/guides/Regions.md): Learn how to claim, protect, and manage specific areas on the server with the Regions plugin.<br>
 🧪 [Slimefun](docs/guides/Slimefun.md): Dive into the world of Slimefun, featuring new items, machines, and crafting recipes.<br>
 
-### 🌐 Connect to our Minecraft server (1.20.1) at jericraftmc.net and embark on an epic adventure!
+### 🌐 Connect to our Minecraft server (1.20.1) at `jericraftmc.net` and embark on an epic adventure!
 
 *Join our friendly community and experience the JeriCraft difference today!* 🗺️
 
