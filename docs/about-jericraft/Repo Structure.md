@@ -28,6 +28,7 @@
 │   │   ├── Jobs.md
 │   │   ├── LevelledMobs.md
 │   │   ├── mcMMO.md
+│   │   ├── RealisticSeasons.md
 │   │   ├── Regions.md
 │   │   └── Slimefun.md
 │   └── webstore/

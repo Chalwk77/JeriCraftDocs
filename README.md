@@ -65,14 +65,16 @@ JeriCraft utilizes several plugins to enhance your gameplay experience. We've pr
 
 ## 📚 Guides 📚
 
+📢 [AuctionHouse](docs/guides/AuctionHouse.md): Discover how to buy and sell items using the AuctionHouse plugin.<br>
 🛍️ [ChestShop]((./docs/guides/ChestShop.md)): Learn how to create and manage shops using the ChestShop plugin.<br>
 💰 [Economy](docs/guides/Economy.md): Discover the ins and outs of JeriCraft's in-game economy system.<br>
 🌟 [Getting Started](docs/guides/GettingStarted.md): New to JeriCraft? Start here to get up and running quickly.<br>
 💼 [Jobs](docs/guides/Jobs.md): Find out how to join professions, complete tasks, and earn in-game money with the Jobs plugin.<br>
+🦾 [LevelledMobs](docs/guides/LevelledMobs.md): Learn about the LevelledMobs plugin and how it enhances mob combat.<br>
 🔱 [mcMMO](docs/guides/mcMMO.md): Master the mcMMO plugin's RPG-like skills, abilities, and leveling systems.<br>
+❄️ [RealisticSeasons](docs/guides/RealisticSeasons.md): Explore the dynamic and immersive seasons we offer.<br>
 🗺️ [Regions](docs/guides/Regions.md): Learn how to claim, protect, and manage specific areas on the server with the Regions plugin.<br>
 🧪 [Slimefun](docs/guides/Slimefun.md): Dive into the world of Slimefun, featuring new items, machines, and crafting recipes.<br>
-🛒 [Webstore](docs/webstore/): Explore the JeriCraft web store to enhance your experience by purchasing ranks, perks, and more.
 
 These guides are designed to help players navigate and enjoy the unique features of JeriCraft.<br>
 Make sure to check back regularly, as new documentation may be added or updated.

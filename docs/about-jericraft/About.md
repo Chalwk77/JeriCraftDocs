@@ -3,14 +3,16 @@
 JeriCraft is a semi-hardcore SMP/RPG Minecraft server with a focus on Survival, Economy, Slimefun, Jobs, mcMMO, Seasons, Hella scary mobs, and more! Our feature-rich server offers a variety of engaging gameplay experiences, including custom content and RPG elements. With a focus on community and support, we provide a platform where gamers can thrive, both in-game and in their personal lives.
 
 ## 📝 Our main features include:
-**Slimefun**: A plugin that adds various items and machines to enhance the Minecraft experience.
-**Jobs**: Choose a job and earn money by completing tasks specific to your role.
-**mcMMO**: Level up skills and gain abilities to become more powerful in your Minecraft journey.
-**Auctions**: Buy and sell items through an engaging auction system.
-**Seasons**: Experience dynamic weather and seasonal changes in the game.
-**ChestShop**: Create your own shop and sell items to other players.
-**LeveledMobs**: Fight against challenging mobs with varying levels and difficulties.
-**WorldGuard**: Protect your builds and creations from griefing and damage.
+📢 [AuctionHouse](docs/guides/AuctionHouse.md): Discover how to buy and sell items using the AuctionHouse plugin.<br>
+🛍️ [ChestShop]((./docs/guides/ChestShop.md)): Learn how to create and manage shops using the ChestShop plugin.<br>
+💰 [Economy](docs/guides/Economy.md): Discover the ins and outs of JeriCraft's in-game economy system.<br>
+🌟 [Getting Started](docs/guides/GettingStarted.md): New to JeriCraft? Start here to get up and running quickly.<br>
+💼 [Jobs](docs/guides/Jobs.md): Find out how to join professions, complete tasks, and earn in-game money with the Jobs plugin.<br>
+🦾 [LevelledMobs](docs/guides/LevelledMobs.md): Learn about the LevelledMobs plugin and how it enhances mob combat.<br>
+🔱 [mcMMO](docs/guides/mcMMO.md): Master the mcMMO plugin's RPG-like skills, abilities, and leveling systems.<br>
+❄️ [RealisticSeasons](docs/guides/RealisticSeasons.md): Explore the dynamic and immersive seasons we offer.<br>
+🗺️ [Regions](docs/guides/Regions.md): Learn how to claim, protect, and manage specific areas on the server with the Regions plugin.<br>
+🧪 [Slimefun](docs/guides/Slimefun.md): Dive into the world of Slimefun, featuring new items, machines, and crafting recipes.<br>
 
 ### 🌐 Connect to our Minecraft server (1.20.1) at jericraftmc.net and embark on an epic adventure!
 
