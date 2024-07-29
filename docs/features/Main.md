@@ -125,6 +125,8 @@ See our [ChestShop Guide](../guides/ChestShop.md) for more information on how to
 LevelledMobs is a plugin that allows mobs to level up and become stronger as they kill players.
 See the link above for a full list of features.
 
+See our [LevelledMobs Guide](../guides/LevelledMobs.md) for more information on how to use LevelledMobs.
+
 ---
 
 8. ### [WorldGuard](https://enginehub.org/worldguard)
