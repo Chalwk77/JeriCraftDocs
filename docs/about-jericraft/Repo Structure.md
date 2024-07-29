@@ -26,6 +26,7 @@
 │   │   ├── Economy.md
 │   │   ├── GettingStarted.md
 │   │   ├── Jobs.md
+│   │   ├── LevelledMobs.md
 │   │   ├── mcMMO.md
 │   │   ├── Regions.md
 │   │   └── Slimefun.md
