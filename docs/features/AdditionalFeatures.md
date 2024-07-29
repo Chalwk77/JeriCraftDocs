@@ -37,9 +37,8 @@ Now you can 🤩 **relax** and show off your rank's 🌟 **exclusive** 🪑 **si
 
 ---
 
-# 📦 Expanded Ender Chest (27 Slots)
+# 📦 Portable Ender Chest (27 Slots)
 
-Access a 27-slot 🔮 Ender Chest anywhere on the server with a simple command! As a player, you can use `/ender` to open
-an expanded, convenient storage solution for your adventures.
+Access a **27-slot** 🔮 **Ender Chest** anywhere on the server with a simple command! As a player, you can use `/ender` to open a **portable, convenient** storage solution for your adventures.
 
-Now you can **carry** more items and keep your inventory organized with this handy **Ender Chest upgrade**!
+Now you can **carry** more items and keep your inventory organized with this handy **Portable Ender Chest**!
