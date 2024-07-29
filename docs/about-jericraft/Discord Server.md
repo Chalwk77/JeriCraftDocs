@@ -21,7 +21,7 @@
 
 📅 EVENTS
 
-- #〔🎬〕events
+- #〔📌〕schedule
 
 〔👥〕MC SOCIAL
 

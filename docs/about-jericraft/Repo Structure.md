@@ -11,6 +11,8 @@
 │   │   ├── Bans.md
 │   │   ├── Community Rules.md
 │   │   ├── Discord Server.md
+│   │   ├── Events.md
+│   │   ├── Kit Ideas.md
 │   │   └── Repo Structure.md
 │   ├── commands/
 │   │   ├── PERK-COMMANDS.md
