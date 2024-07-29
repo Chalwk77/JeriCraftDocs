@@ -10,6 +10,8 @@ Slimefun is an incredibly comprehensive plugin that strives to mimic tech and ma
 Slimefun adds hundreds of hours of new content to Minecraft,
 and is an amazing addon to the base survival experience.
 
+See our [Slimefun Guide](../guides/Slimefun.md) for more information on how to use Slimefun.
+
 **Our Slimefun Addons:**
 
 | Addon Name        | Project Page                                                    |
@@ -37,6 +39,8 @@ and is an amazing addon to the base survival experience.
 Jobs allow you to get paid for breaking, placing, killing, fishing crafting and more!
 Gain experience as you perform your job. Jobs are one of the primary ways that players can earn money in-game.
 For a full list of features, please visit; zrips.net/jobs
+
+See our [Jobs Guide](../guides/Jobs.md) for more information on how to use Jobs.
 
 Full list of jobs on our server:
 
@@ -70,6 +74,8 @@ The skills are divided into Gathering, Combat and Miscellaneous.
 As you gain experience with a skill, you earn bonuses such as double drops, rare drops, or ability enhancement.
 
 For a full list of features, please visit: [mcmmo.org](mcmmo.org)
+
+See our [McMMO Guide](../guides/McMMO.md) for more information on how to use McMMO.
 
 Full list of MCMMO skills on our server:
 
@@ -121,6 +127,8 @@ See the link above for a full list of features.
 
 World Guard is a powerful land protection plugin that lets players guard areas of land against
 griefers and undesirables, as well as tweak and disable various gameplay features and mechanics of Minecraft.
+
+See our [Region Management Guide](../guides/Regions.md) for more information on how to use WorldGuard.
 
 Players can set the following flags in their claims:
 

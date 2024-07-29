@@ -52,7 +52,8 @@ and `<value>` with the appropriate parameter.
 
 Example: `rg flag myregion mob-spawning deny` will prevent mobs from spawning in the region named "myregion." 🚫
 
-For a list of available region flags, refer to the [Region Flags section](../features/Main.md#worldguard) in the Main documentation.
+For a list of available region flags, refer to the [Region Flags section](../features/Main.md#worldguard) in the Main
+documentation.
 
 🌟 **Conclusion**
 
