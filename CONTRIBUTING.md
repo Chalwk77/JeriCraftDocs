@@ -31,7 +31,7 @@ smooth and efficient, please follow these guidelines:
 
 - 💼 By contributing to this repository, you agree that your contributions are licensed under the same terms as the rest
   of the content.
-- Please refer to the [LICENSE.md](../LICENSE.md) file for more information on the licensing terms.
+- Please refer to the [LICENCE.md](LICENCE.md) file for more information on the licensing terms.
 
 ## 💚 Your Contributions Matter!
 
