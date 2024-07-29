@@ -6,15 +6,15 @@
 
 - 〔📢〕announcements
 - 〔🔴〕twitch-live
-- 〔🔄〕server-updates
-- 〔💡〕feedback-and-suggestions
+- 〔🔄〕updates
+- 〔💡〕feedback-&-suggestions
 - 〔📝〕applications
 - 〔🚫〕appeals
 - 〔💰〕webstore
 
-〔✅〕HELP & SUPPORT
+〔🔗〕GitHub
 
-- 〔📚〕jeri-docs
+- 〔📣〕updates
 
 🎬 EVENTS
 
