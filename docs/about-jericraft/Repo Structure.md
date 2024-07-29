@@ -4,7 +4,6 @@
 
 ```
 .
-├── CONTRIBUTING.md
 ├── assets/
 ├── docs/
 │   ├── about-jericraft/
@@ -12,7 +11,7 @@
 │   │   ├── Bans.md
 │   │   ├── Community Rules.md
 │   │   ├── Discord Server.md
-│   │   └── GitHub Structure.md
+│   │   └── Repo Structure.md
 │   ├── commands/
 │   │   ├── PERK-COMMANDS.md
 │   │   ├── PLAYER-COMMANDS.md
@@ -30,6 +29,7 @@
 │   └── webstore/
 │       ├── about.md
 │       └── perks.md
-├── Licence.md
+├── CONTRIBUTING.md
+├── LICENCE.md
 └── README.md
 ```
