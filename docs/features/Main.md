@@ -110,6 +110,8 @@ See our [AuctionHouse Guide](../guides/AuctionHouse.md) for more information on 
 
 Adds realistic seasons (Spring, Summer, Autumn & Winter) to our Survival world.
 
+See our [RealisticSeasons Guide](../guides/RealisticSeasons.md) for more information on how to use RealisticSeasons.
+
 ---
 
 6. ### [ChestShop](https://www.spigotmc.org/resources/chestshop.51856/)
