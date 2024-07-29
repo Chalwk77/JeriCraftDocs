@@ -19,6 +19,7 @@
 │   │   ├── PLAYER-COMMANDS.md
 │   │   └── STAFF-COMMANDS.md
 │   ├── features/
+│   │   └── AdditionalFeatures.md
 │   │   └── Main.md
 │   ├── guides/
 │   │   ├── AuctionHouse.md

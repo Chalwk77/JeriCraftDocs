@@ -12,7 +12,8 @@
     - [Staff Commands](docs/commands/STAFF-COMMANDS.md)
     - [Perk Commands](docs/commands/PERK-COMMANDS.md)
 4. [Server Features](docs/features/Main.md)
-5. [Guides](docs/guides/)
+5. [Additional Features](docs/features/AdditionalFeatures.md)
+6. [Guides](docs/guides/)
     - [AuctionHouse](docs/guides/AuctionHouse.md)
     - [ChestShop](docs/guides/ChestShop.md)
     - [Economy](docs/guides/Economy.md)
@@ -23,11 +24,11 @@
     - [RealisticSeasons](docs/guides/RealisticSeasons.md)
     - [Regions](docs/guides/Regions.md)
     - [Slimefun](docs/guides/Slimefun.md)
-6. [Perks](docs/webstore/perks.md)
-7. [Applications](docs/applications/)
+7. [Perks](docs/webstore/perks.md)
+8. [Applications](docs/applications/)
     - [Staff](docs/applications/Staff.md)
     - [Builder](docs/applications/Builder.md)
-8. [Form Templates](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose)
+9. [Form Templates](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose)
     - [Ban Appeal](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Ban+Appeal&projects=&template=ban-appeal.yaml&title=Ban+Appeal+for%3A+%3Cname%3E)
     - [Bug Report](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Bug%2CNeeds+Triage&projects=&template=bug-report.yaml&title=%5BBUG%5D+%3Ctitle%3E)
     - [Builder Application](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Builder+Application&projects=&template=builder-application.yaml&title=Builder+Application+for%3A+%3Cname%3E)
@@ -35,8 +36,8 @@
     - [Report a Playter](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Report&projects=&template=player-report.yaml&title=%5BREPORT%5D+%3Coffender%3E)
     - [Server Suggestions](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Suggestion&projects=&template=server-suggestions.yaml&title=SUGGESTION%3A+%3Ctitle%3E)
     - [Staff Application](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=staff-application%2Cpending%2Cawaiting-review%2Cawaiting-interview&projects=&template=staff-application.yaml&title=Staff+Application+-+%5BYour+Name%5D)
-8. [Contributing](CONTRIBUTING.md)
-9. [License](LICENCE.md)
+10. [Contributing](CONTRIBUTING.md)
+11. [License](LICENCE.md)
  
 ─━━━━━━━━━━━━━━━━━━━━
 
@@ -63,10 +64,13 @@ Learn about the commands associated with JeriCraft's perks by visiting our [Perk
 
 JeriCraft utilizes several plugins to enhance your gameplay experience. We've prepared [detailed documentation](docs/features/Main.md) for our key plugins to help you make the most out of their features.
 
+## ➕ Additional Features ➕
+We offer a variety of additional features to enhance your gameplay experience, such as Jobs Boosts and more. For more information, check out our [Additional Features Guide](docs/features/AdditionalFeatures.md).
+
 ## 📚 Guides 📚
 
 📢 [AuctionHouse](docs/guides/AuctionHouse.md): Discover how to buy and sell items using the AuctionHouse plugin.<br>
-🛍️ [ChestShop]((./docs/guides/ChestShop.md)): Learn how to create and manage shops using the ChestShop plugin.<br>
+🛍️ [ChestShop](./docs/guides/ChestShop.md): Learn how to create and manage shops using the ChestShop plugin.<br>
 💰 [Economy](docs/guides/Economy.md): Discover the ins and outs of JeriCraft's in-game economy system.<br>
 🌟 [Getting Started](docs/guides/GettingStarted.md): New to JeriCraft? Start here to get up and running quickly.<br>
 💼 [Jobs](docs/guides/Jobs.md): Find out how to join professions, complete tasks, and earn in-game money with the Jobs plugin.<br>
