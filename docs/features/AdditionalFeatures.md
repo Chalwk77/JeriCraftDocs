@@ -42,3 +42,17 @@ Now you can 🤩 **relax** and show off your rank's 🌟 **exclusive** 🪑 **si
 Access a **27-slot** 🔮 **Ender Chest** anywhere on the server with a simple command! As a player, you can use `/ender` to open a **portable, convenient** storage solution for your adventures.
 
 Now you can **carry** more items and keep your inventory organized with this handy **Portable Ender Chest**!
+
+--- 
+
+# 🔨 Scavenge - Salvage Items and Enchantments
+Unlock the potential of your unwanted items with the `/scavenge` command! **Break down** items into their **raw ingredients** and **extract** enchantments with a **chance** to recover valuable resources.
+
+This **resourceful** command lets you **recycle** items and **reclaim** enchantments, giving you more control over your inventory and crafting possibilities!
+
+---
+
+# 💰 Cheque - Create Cheques for Players
+Share your wealth and help out fellow players with the **/cheque** command! Simply type `/cheque [player name] [amount]` to create a **customized** 💵 **cheque** for the specified player.
+
+This **generous** feature lets you **transfer** in-game currency easily, facilitating player-to-player transactions and encouraging a **thriving** server economy!
