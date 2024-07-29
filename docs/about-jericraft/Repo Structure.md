@@ -21,6 +21,7 @@
 │   ├── features/
 │   │   └── Main.md
 │   ├── guides/
+│   │   ├── AuctionHouse.md
 │   │   ├── ChestShop.md
 │   │   ├── Economy.md
 │   │   ├── GettingStarted.md

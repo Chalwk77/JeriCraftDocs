@@ -102,6 +102,8 @@ Full list of MCMMO skills on our server:
 AuctionHouse is a plugin that allows players to auction items to other players.
 You can sell items, buy items, make bids, and more!
 
+See our [AuctionHouse Guide](../guides/AuctionHouse.md) for more information on how to use AuctionHouse.
+
 ---
 
 5. ### [RealisticSeasons](https://www.spigotmc.org/resources/realisticseasons-1-16-3-1-20-2-seasons-in-your-minecraft-world-with-temperature-and-calendar.93275/)
