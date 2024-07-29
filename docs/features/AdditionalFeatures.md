@@ -39,8 +39,8 @@ Now you can 🤩 **relax** and show off your rank's 🌟 **exclusive** 🪑 **si
 
 # 📦 Portable Ender Chest (27 Slots)
 
-Access a **27-slot** 🔮 **Ender Chest** anywhere on the server with a simple command! As a player, you can use `/ender`
-to open a **portable, convenient** storage solution for your adventures.
+Access a **27-slot** 🔮 **Ender Chest** anywhere on the server with a simple command!<br>
+As a player, you can use `/ender` to open a **portable, convenient** storage solution for your adventures.
 
 Now you can **carry** more items and keep your inventory organized with this handy **Portable Ender Chest**!
 
@@ -48,8 +48,9 @@ Now you can **carry** more items and keep your inventory organized with this han
 
 # 🔨 Scavenge - Salvage Items and Enchantments
 
-Unlock the potential of your unwanted items with the `/scavenge` command! **Break down** items into their **raw
-ingredients** and **extract** enchantments with a **chance** to recover valuable resources.
+Unlock the potential of your unwanted items with the `/scavenge` command!<br>
+**Break down** items into their **raw ingredients** and **extract** enchantments with a **chance** to recover valuable
+resources.
 
 This **resourceful** command lets you **recycle** items and **reclaim** enchantments, giving you more control over your
 inventory and crafting possibilities!
@@ -58,8 +59,8 @@ inventory and crafting possibilities!
 
 # 💰 Cheque - Create Cheques for Players
 
-Share your wealth and help out fellow players with the **/cheque** command! Simply type `/cheque [player name] [amount]`
-to create a **customized** 💵 **cheque** for the specified player.
+Share your wealth and help out fellow players with the **/cheque** command!<br>
+Simply type `/cheque [player name] [amount]` to create a **customized** 💵 **cheque** for the specified player.
 
 This **generous** feature lets you **transfer** in-game currency easily, facilitating player-to-player transactions and
 encouraging a **thriving** server economy!
@@ -68,8 +69,8 @@ encouraging a **thriving** server economy!
 
 # 💝 Donate - Give Items to Other Players
 
-Spread kindness and share your resources with the **/donate** command! Just type `/donate [player name] <amount>` to *
-*donate** items to another player.
+Spread kindness and share your resources with the **/donate** command!<br>
+Just type `/donate [player name] <amount>` to **donate** items to another player.
 
 This **charitable** feature encourages a sense of **community** and **collaboration** among players, fostering a
 friendly and supportive atmosphere on the server.
@@ -78,6 +79,7 @@ friendly and supportive atmosphere on the server.
 
 # 🎩 Hats - Wear Any Item as a Hat (Members Only)
 
-Show off your **creativity** and **style** with the **/hat** command. Simply hold an item and type `/hat` to wear it on
-your head. 🙌 Express yourself with unique hats that'll make you stand out from the crowd. **Unlock** this **fun**
-feature as a **reward** for being a valued Member of our community!
+Show off your **creativity** and **style** with the **/hat** command. Simply hold an item and type `/hat` to wear it on your head.
+
+🙌 Express yourself with unique hats that'll make you stand out from the crowd. **Unlock** this **fun** feature as a *
+*reward** for being a valued Member of our community!
