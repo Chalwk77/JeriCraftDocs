@@ -52,6 +52,8 @@ and `<value>` with the appropriate parameter.
 
 Example: `rg flag myregion mob-spawning deny` will prevent mobs from spawning in the region named "myregion." 🚫
 
+For a list of available region flags, refer to the [Region Flags section](Main.md#region-flags) in the Main documentation.
+
 🌟 **Conclusion**
 
 We hope this tutorial helps you effectively manage your protected regions on JeriCraft! 💖 Feel free to explore and
