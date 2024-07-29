@@ -21,7 +21,7 @@
     - [Regions](./docs/guides/Regions.md)
     - [Slimefun](./docs/guides/Slimefun.md)
     - [Webstore](./docs/guides/Webstore.md)
-6. [Perks](./docs/perks/PERKS.md)
+6. [Perks](docs/webstore/perks.md)
 7. [Applications](./docs/applications/)
     - [Staff](./docs/applications/Staff.md)
     - [Builder](./docs/applications/Builder.md)
@@ -77,7 +77,7 @@ Make sure to check back regularly, as new documentation may be added or updated.
 
 ## 🎁 Perks 🎁
 
-Discover all the fantastic perks available on the JeriCraft server by browsing through our [Perks Guide](./docs/perks/PERKS.md).
+Discover all the fantastic perks available on the JeriCraft server by browsing through our [Perks Guide](docs/webstore/perks.md).
 
 ## 📝 Applications 📝
 
