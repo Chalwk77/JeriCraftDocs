@@ -8,6 +8,9 @@
 - 〔🔴〕twitch-live
 - 〔🔄〕server-updates
 - 〔💡〕feedback-and-suggestions
+- 〔📝〕applications
+- 〔🚫〕appeals
+- 〔💰〕webstore
 
 〔✅〕HELP & SUPPORT
 
@@ -24,20 +27,6 @@
 - 〔🖵〕media
 - 〔🖧〕live-server-chat
 - 〔🌟〕introductions
-- 〔🎭〕roleplay
-
-〔🛒〕WEBSTORE
-
-- 📙about
-- 📑payment-terms
-- ✨perks
-- 💲purchases
-
-〔📄〕APPLICATIONS
-
-- 〔🛡〕staff
-- 〔⛏〕builder
-- 〔🚫〕appeals
 
 PUBLIC VOICE CHANNELS
 
@@ -48,15 +37,7 @@ PUBLIC VOICE CHANNELS
 - 〔🔴〕Stream
 - 〔🎵〕Music
 
-〔🔗〕 JERICRAFT-GITHUB
-
-- 〔📝〕about
-- 〔🔔〕repo-activity
-- 〔🐛〕bug-reports
-- 〔💡〕plugin-ideas
-- 〔📙〕plugin-help
-
-〔📰〕 HSP-GITHUB
+〔📰〕 HSP-GITHUB (hidden to public)
 
 - 〔📝〕about
 - 〔🔔〕repo-activity
@@ -64,14 +45,7 @@ PUBLIC VOICE CHANNELS
 - 〔🎨〕dev
 - 〔🐛〕bug-reports
 
-〔💻〕 CREATIVE CODING
-
-- coding-discussions
-- java_jda
-- lua_discordia
-- android_studio
-
-☗ MANAGEMENT ☗
+☗ MANAGEMENT ☗ (hidden to public)
 
 - 〔🛡〕admin-room
 - 〔❗〕important
