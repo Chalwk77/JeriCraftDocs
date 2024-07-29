@@ -19,5 +19,5 @@ collaboration, please follow these guidelines:
    same [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en)
    license as the rest of the content.
 
-Your contributions help keep the JeriCraft documentation up-to-date and valuable for the entire community. Thank you for
+Your contributions help keep the JeriCraft documentation up to date and valuable for the entire community. Thank you for
 your support!
