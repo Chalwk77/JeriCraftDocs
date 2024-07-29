@@ -1,22 +1,16 @@
 # Server Features:
 
-```
-JeriCraft plays host to a number of well-known popular (and custom) plugins,
-tailor-made for your enjoyment! Below, I have curated a list of core features
-that make up our server (doesn't include minor features):
-```
+JeriCraft plays host to a number of well-known popular (and custom) plugins, tailor-made for your enjoyment!
 
----
+**This is curated a list of core features that make up our server (doesn't include minor features):**
 
-### [Slimefun 4](https://github.com/Slimefun/Slimefun4)
+1. ### [Slimefun 4](https://github.com/Slimefun/Slimefun4)
 
-```
 Slimefun is an incredibly comprehensive plugin that strives to mimic tech and magic mods.
 Slimefun adds hundreds of hours of new content to Minecraft,
 and is an amazing addon to the base survival experience.
-```
 
-Our Slimefun Addons:
+**Our Slimefun Addons:**
 
 | Addon Name        | Project Page                                                    |
 |-------------------|-----------------------------------------------------------------|
@@ -36,13 +30,13 @@ Our Slimefun Addons:
 | VillagerUtil      | [link](https://github.com/Apeiros-46B/VillagerUtil)             |
 | FoxyMachines      | [link](https://github.com/GallowsDove/FoxyMachines)             |
 
-### [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/)
+---
 
-```
-Jobs allow you to get paid for breaking, placing, killing, fishing crafting and more! 
+2. ### [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/)
+
+Jobs allow you to get paid for breaking, placing, killing, fishing crafting and more!
 Gain experience as you perform your job. Jobs are one of the primary ways that players can earn money in-game.
 For a full list of features, please visit; zrips.net/jobs
-```
 
 Full list of jobs on our server:
 
@@ -65,17 +59,17 @@ Full list of jobs on our server:
 - Weaponsmith
 - Woodcutter
 
-### [McMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/)
+---
 
-```
-McMMO adds a skill system that increases experience the more a tool or weapon is used, 
-or the more times an action is performed. 
+3. ### [McMMO](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/)
 
-The skills are divided into Gathering, Combat and Miscellaneous. 
+McMMO adds a skill system that increases experience, the more a tool or weapon is used,
+or the more times an action is performed.
+
+The skills are divided into Gathering, Combat and Miscellaneous.
 As you gain experience with a skill, you earn bonuses such as double drops, rare drops, or ability enhancement.
 
-For a full list of features, please visit: mcmmo.org
-```
+For a full list of features, please visit: [mcmmo.org](mcmmo.org)
 
 Full list of MCMMO skills on our server:
 
@@ -95,38 +89,38 @@ Full list of MCMMO skills on our server:
 - Unarmed
 - Woodcutting
 
-### [AuctionHouse](https://www.spigotmc.org/resources/auctionhouse.61836/)
+---
 
-```
+4. ### [AuctionHouse](https://www.spigotmc.org/resources/auctionhouse.61836/)
+
 AuctionHouse is a plugin that allows players to auction items to other players.
 You can sell items, buy items, make bids, and more!
-```
 
-### [RealisticSeasons](https://www.spigotmc.org/resources/realisticseasons-1-16-3-1-20-2-seasons-in-your-minecraft-world-with-temperature-and-calendar.93275/)
+---
 
-```
+5. ### [RealisticSeasons](https://www.spigotmc.org/resources/realisticseasons-1-16-3-1-20-2-seasons-in-your-minecraft-world-with-temperature-and-calendar.93275/)
+
 Adds realistic seasons (Spring, Summer, Autumn & Winter) to our Survival world.
-```
 
-### [ChestShop](https://www.spigotmc.org/resources/chestshop.51856/)
+---
 
-```
+6. ### [ChestShop](https://www.spigotmc.org/resources/chestshop.51856/)
+
 ChestShop is a simple, yet very powerful system for making physical shops using signs and chests.
-```
 
-### [LevelledMobs](https://www.spigotmc.org/resources/levelledmobs.74304/)
+---
 
-```
+7. ### [LevelledMobs](https://www.spigotmc.org/resources/levelledmobs.74304/)
+
 LevelledMobs is a plugin that allows mobs to level up and become stronger as they kill players.
-See link above for a full list of features.
-```
+See the link above for a full list of features.
 
-### [WorldGuard](https://enginehub.org/worldguard)
+---
 
-```
-World Guard is a powerful land protection plugin that lets players guard areas of land against 
+8. ### [WorldGuard](https://enginehub.org/worldguard)
+
+World Guard is a powerful land protection plugin that lets players guard areas of land against
 griefers and undesirables, as well as tweak and disable various gameplay features and mechanics of Minecraft.
-```
 
 Players can set the following flags in their claims:
 
