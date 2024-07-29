@@ -75,7 +75,7 @@ As you gain experience with a skill, you earn bonuses such as double drops, rare
 
 For a full list of features, please visit: [mcmmo.org](mcmmo.org)
 
-See our [McMMO Guide](../guides/McMMO.md) for more information on how to use McMMO.
+See our [McMMO Guide](../guides/mcMMO.md) for more information on how to use McMMO.
 
 Full list of MCMMO skills on our server:
 
@@ -113,6 +113,8 @@ Adds realistic seasons (Spring, Summer, Autumn & Winter) to our Survival world.
 6. ### [ChestShop](https://www.spigotmc.org/resources/chestshop.51856/)
 
 ChestShop is a simple, yet very powerful system for making physical shops using signs and chests.
+
+See our [ChestShop Guide](../guides/ChestShop.md) for more information on how to use ChestShop.
 
 ---
 
