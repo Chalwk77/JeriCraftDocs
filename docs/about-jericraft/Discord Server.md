@@ -10,14 +10,16 @@
 - #〔💡〕feedback-&-suggestions
 - #〔📝〕applications
 - #〔🚫〕appeals
-- #〔💰〕webstore
 
 〔🔗〕GitHub
 
 - #〔📚〕docs
 - #〔📣〕updates
+- #〔💬〕discussion
+- #〔🛠〕contributors
+- #〔💰〕webstore
 
-🎬 EVENTS
+📅 EVENTS
 
 - #〔🎬〕events
 
@@ -25,7 +27,7 @@
 
 - #〔💬〕chatter-box
 - #〔💬〕off-topic
-- #〔🖵〕media
+- #〔📺〕media
 - #〔🖧〕live-server-chat
 - #〔🌟〕introductions
 
