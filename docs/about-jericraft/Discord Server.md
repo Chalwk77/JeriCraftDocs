@@ -11,14 +11,6 @@
 - #〔📝〕applications
 - #〔🚫〕appeals
 
-〔🔗〕GitHub
-
-- #〔📚〕docs
-- #〔📣〕updates
-- #〔💬〕discussion
-- #〔🛠〕contributors
-- #〔💰〕webstore
-
 📅 EVENTS
 
 - #〔📌〕schedule
@@ -31,7 +23,7 @@
 - #〔🖧〕live-server-chat
 - #〔🌟〕introductions
 
-PUBLIC VOICE CHANNELS
+🎙 THE LOUNGE
 
 - #〔⌘〕music-commands
 - #〔🔇〕no-microphone
@@ -39,6 +31,14 @@ PUBLIC VOICE CHANNELS
 - #〔🎤〕Minecraft
 - #〔🔴〕Stream
 - #〔🎵〕Music
+
+〔🔗〕GitHub
+
+- #〔📚〕docs
+- #〔📣〕updates
+- #〔💬〕discussion
+- #〔🛠〕contributors
+- #〔💰〕webstore
 
 〔📰〕 HSP-GITHUB **(hidden to public)**
 
