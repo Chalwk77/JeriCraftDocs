@@ -2,7 +2,7 @@
 
 ## **Quest 1: Execution Stand**
 
-**Name: Execution Stand
+- **Name:** Execution Stand
 - **Objective:** Witness a random execution event.
 - **Setting:** Castle town/settlement, specifically near the execution stand.
 - **NPCs Involved:** Criminal NPC, Executioner NPC, optional additional NPCs (guards, spectators).
