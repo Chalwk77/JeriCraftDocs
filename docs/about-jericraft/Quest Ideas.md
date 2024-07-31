@@ -77,3 +77,23 @@ This heartwarming quest allows players to form a bond with an old fisherman, exp
 8. The player must decide whether to believe Vincent's story and split the treasure, risking the loss of half the gold but potentially avoiding the curse, or keep the treasure for themselves, ignoring Vincent's warning.
 
 This intricate quest immerses players in a captivating narrative filled with mystery, intrigue, and moral dilemmas.
+
+# Quest 5: The Knights Delemma
+- **Name:** The Knight's Dilemma
+- **Objective:** Forge a powerful weapon for a bullying knight and decide whether to return the weapon or keep it.
+- **Setting:** The town, the Blacksmith Tower, and various dungeons and ruins for material gathering.
+- **NPCs Involved:** Sir Godfrey (the bullying knight) and Olaf (the master blacksmith).
+- **Challenges:** Obtaining rare Slimefun materials by overcoming deadly traps and powerful creatures in dangerous locations, facing a moral dilemma on whether to return the weapon or keep it.
+- **Rewards:** Access to a powerful weapon and either the loyalty of Sir Godfrey (if the weapon is returned), enabling him to be summoned for assistance in PvE/PvP battles, or a powerful weapon for personal use (if the player chooses to keep it).
+
+### Outline:
+
+1. As the player wanders through the bustling streets of the town, they encounter a burly, arrogant knight named Sir Godfrey, who's known for his bullying behavior. Despite his impressive strength and bravery, he lacks the skills to forge his own weapons.
+2. Begrudgingly, Sir Godfrey asks the player for assistance in crafting a powerful weapon (randomly chosen between a sword, shield, or another battle item). He confesses that his current equipment is inadequate for the upcoming tournament, where he aims to prove his superiority.
+3. The player agrees to help Sir Godfrey and heads to the legendary Blacksmith Tower, home to the most skilled craftsmen in the land. Upon arrival, the Tower's master blacksmith, Olaf, explains that a unique set of Slimefun materials are required to forge the desired weapon.
+4. Olaf provides the player with an ancient treasure map, which leads to various dungeons and dangerous ruins scattered across the kingdom. In these perilous locations, the player must overcome deadly traps and powerful creatures to acquire the rare materials needed for the weapon.
+5. Once the player has gathered all the materials, they return to the Blacksmith Tower, where Olaf expertly forges the powerful weapon. The player marvels at the craftsmanship and can almost sense the weapon's potential in battle.
+6. With the weapon complete, the player faces a moral dilemma: fulfill their promise to Sir Godfrey and present him with the weapon, or keep the powerful item for themselves.
+7. If the player chooses to return the weapon to Sir Godfrey, he gleefully accepts it and pledges his loyalty to the player. The player can now summon Sir Godfrey to assist them in any PvE or PvP battles, harnessing the power of the mighty weapon they forged together. Alternatively, the player may choose to keep the weapon, knowing that it will significantly boost their own combat abilities. This choice, however, comes with the consequence of gaining an enemy in the vengeful Sir Godfrey, who vows to seek revenge for the player's betrayal.
+
+The Knight's Dilemma quest immerses players in a tale of conflict and difficult choices while introducing them to the intricacies of weapon forging and the consequences of their actions on in-game relationships.
