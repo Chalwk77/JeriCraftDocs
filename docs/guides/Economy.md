@@ -9,8 +9,7 @@ the available commands, shops, and features.
 There are several methods to accumulate wealth within the JeriCraft economy:
 
 - **Jobs:** Join a job using the Jobs plugin and perform various tasks to earn money and experience.
-- **Selling Items:** Use the `/sell` command to sell items in your inventory or use the Auction House to sell items to
-  other players.
+- **Selling Items:** Use the `/sell` command to sell items in your inventory or use the Auction House to sell items to other players.
 - **Participating in Events:** Join server-wide events for a chance to win prizes and earn extra cash.
 - **Creating Shops:** Set up your own.
 - **Loot Containers:** Discover loot containers hidden throughout the world for valuable rewards.
@@ -37,8 +36,7 @@ or buy items directly with the following commands:
 **Creating a Shop with Chest Shop**
 
 To create your own shop using Chest Shop, refer to our
-detailed [ChestShop Tutorial](./docs/guides/ChestShop.md). The guide
-provides
+detailed [ChestShop Tutorial](./docs/guides/ChestShop.md). The guide provides
 step-by-step instructions on setting up your shop and customizing it to suit your needs.
 
 **Spending Money**
@@ -49,5 +47,11 @@ Spend your hard-earned cash in various ways, such as:
 - Auction House: Buy items listed by other players at the Auction House.
 - Player Shops: Support fellow players by shopping at their custom-made shops.
 - In-Game Services: Pay for services offered by other players, such as building, crafting, or enchanting.
+
+**Check your Balance and paying others**
+- Keep track of your funds by using the `/bal` command.
+- Pay other players with `/pay <player> <amount>`.
+- Curious about the wealthiest players on the server? Check out the top rankings with `/baltop`.
+- Send a cheque to other players using the `/cheque <player> <amount>` command.
 
 Now that you're familiar with JeriCraft's Economy System, go forth and build your fortune!
