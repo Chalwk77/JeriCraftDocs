@@ -81,5 +81,25 @@ friendly and supportive atmosphere on the server.
 
 Show off your **creativity** and **style** with the **/hat** command. Simply hold an item and type `/hat` to wear it on your head.
 
-🙌 Express yourself with unique hats that'll make you stand out from the crowd. **Unlock** this **fun** feature as a *
-*reward** for being a valued Member of our community!
+🙌 Express yourself with unique hats that'll make you stand out from the crowd. **Unlock** this **fun** feature as a * *reward** for being a valued Member of our community!
+
+---
+
+# 📚 Functional Book Shelves
+Ever wanted to showcase your favorite written books? Now you can with Functional Book Shelves!
+
+**To store your books:**
+- Hold the written book you want to place on the shelf.
+- Left-click on the bookshelf to place your book or check out a transient copy if one already exists.
+
+**To view the author and title of a book on the shelf:**
+- Right-click on the bookshelf.
+
+**To remove your book from the shelf:**
+- Shift-left-click on the bookshelf to remove your book.
+
+**Please note:**
+- Only the original player can remove their book using shift-left-click.
+- If the bookshelf is damaged, the book will auto-drop.
+
+Now you can **organize** and **display** your book collection with ease, adding a touch of personality to your builds! 📚
