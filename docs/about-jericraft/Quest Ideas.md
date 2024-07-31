@@ -78,7 +78,7 @@ This heartwarming quest allows players to form a bond with an old fisherman, exp
 
 This intricate quest immerses players in a captivating narrative filled with mystery, intrigue, and moral dilemmas.
 
-# Quest 5: The Knights Delemma
+# Quest 5: The Knights Dilemma
 - **Name:** The Knight's Dilemma
 - **Objective:** Forge a powerful weapon for a bullying knight and decide whether to return the weapon or keep it.
 - **Setting:** The town, the Blacksmith Tower, and various dungeons and ruins for material gathering.
