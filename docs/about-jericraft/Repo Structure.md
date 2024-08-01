@@ -12,7 +12,9 @@
 │   │   ├── Community Rules.md
 │   │   ├── Discord Server.md
 │   │   ├── Events.md
+│   │   ├── In-Game Announcements.md
 │   │   ├── Kit Ideas.md
+│   │   ├── Quest Ideas.md
 │   │   └── Repo Structure.md
 │   ├── commands/
 │   │   ├── PERK-COMMANDS.md
