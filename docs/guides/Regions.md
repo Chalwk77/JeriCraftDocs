@@ -1,6 +1,6 @@
 ## 🏗️ JeriCraft Region Management Commands 🛡️
 
-🎯 Introduction
+### 🎯 Introduction
 Welcome to the JeriCraft Region Management tutorial! 📚 Protecting your builds and managing access to specific areas is
 essential for a seamless and enjoyable experience on our server. 💻 In this guide, we'll cover the necessary commands to
 help you effectively manage your regions and collaborate with others. 🤝
