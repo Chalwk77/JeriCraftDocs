@@ -149,14 +149,6 @@ body:
     validations:
       required: true
 #  - type: textarea
-#    id: scenario_1
-#    attributes:
-#      label: 🚨 You observe a player using unauthorized mods, such as fly mod or X-ray, to gain an unfair advantage.
-#      description: How would you handle this situation and ensure fair play on the server?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
 #    id: scenario_2
 #    attributes:
 #      label: 🚨 A player is sharing links and promoting another server in the chat, attempting to divert players away from your server.
