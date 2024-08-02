@@ -17,6 +17,8 @@ body:
         - Must be 13 or older.
         - Must be an active member of the community for at least 1.5 months.
         - Have at least 50 hours of playtime on the server.
+        - Must have Discord for communication purposes.
+        - 📝 Must read and agree to our [community rules](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/about-jericraft/Community%20Rules.md).
         - You are allowed to build in pairs.
           > *Collaborations with the intent of using your build for this application require that 70% of the build be done by you.*
         - Builds must be original and not copied from the internet.
@@ -24,6 +26,7 @@ body:
           > *These builds must be done on the server and have different styles and themes.*
           > *You must provide the coordinates of each build.*
           > *Creative mode and World Edit are for Personal use only! You are not permitted to build for other players, period.*
+        - ⚠️Do not make an application if you don't meet these requirements. You will be denied.⚠️️
         
         ---
         
@@ -40,12 +43,6 @@ body:
           - Make sure you set the `worldedit allow` flag in your region before performing World Edit operations.
           - Certain commands will be disabled for you. See the [Player Commands](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/commands/PLAYER-COMMANDS.md) for more information.
 
-        ---
-        ## IMPORTANT:
-        - You are required to have Discord for communication purposes.
-        - 📝 Must read and agree to our [community rules](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/about-jericraft/Community%20Rules.md).
-        - ⚠️Do not make an application if you don't meet these requirements. You will be denied.⚠️️
-        
         ---
   - type: checkboxes
     id: accept-rules
