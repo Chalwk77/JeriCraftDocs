@@ -14,8 +14,6 @@ body:
         This form is intended for individuals interested in applying for a staff position at JeriCraft. Please take your time to provide detailed and accurate information.
         
         Please note that we will review applications as soon as possible, and you will be contacted if your application is selected for further consideration. We appreciate your interest in joining the JeriCraft staff team!
-        
-        We are recruiting!
 
         **JeriCraft Staff Requirements:**
 
@@ -29,14 +27,20 @@ body:
 
         **⚠️Do not make an application if you don't meet these requirements. You will be denied.⚠️️**
         
-        | **Staff Rank** | **Description** |
-        |-----------------|-----------------|
-        | 🏵️ **Trial-Mod (Trial Moderator)** | As an entry-level staff rank, Trial-Mods have access to essential moderation commands (✨) to help maintain the server's friendly environment. |
-        | 🛠️ **Moderator** | Moderators have access to all Trial-Mod commands and additional tools (🔧) for managing and resolving issues efficiently. |
-        | ⚙️ **Admin (Administrator)** | Admins have access to all Moderator and Trial-Mod commands, along with advanced tools (⚙️) for server management and behind-the-scenes operations. |
-        | 👑 **Owner** | The highest rank in the JeriCraft hierarchy, Owners have access to all staff commands (👑) and are responsible for overseeing the entire server. |
         
-        # Staff Commands
+        🏵️ **Trial-Mod (Trial Moderator)**
+        As an entry-level staff rank, Trial-Mods have access to essential moderation commands (✨) to help maintain the server's friendly environment.
+        
+        🛠️ **Moderator**
+        Moderators have access to all Trial-Mod commands and additional tools (🔧) for managing and resolving issues efficiently.
+        
+        ⚙️ **Admin (Administrator)**
+        Admins have access to all Moderator and Trial-Mod commands, along with advanced tools (⚙️) for server management and behind-the-scenes operations.
+        
+        👑 **Owner / Senior Admin**
+        The highest rank in the JeriCraft hierarchy, Owners have access to all staff commands (👑) and are responsible for overseeing the entire server.
+        
+        ## Staff Commands:
         Please familiarize yourself with the [staff commands](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/commands/STAFF-COMMANDS.md)
         These commands are essential for moderating the server and resolving player-related issues.
         
