@@ -64,24 +64,21 @@ body:
     id: age
     attributes:
       label: 🎂 Age
-      description: How old are you?
-      placeholder: "*You must be 13 years or older to apply for Builder.*"
+      description: You must be 13 years or older to apply for Builder.
     validations:
       required: true
   - type: input
     id: timezone
     attributes:
-      label: ⏰ Time Zone
-      description: What is your time zone?
-      placeholder: "*Please provide your timezone (e.g. UTC-5, GMT+1, etc.).*"
+      label: ⏰ What is your time zone?
+      description: For example, UTC-5, GMT+1, etc.
     validations:
       required: true
   - type: input
     id: country
     attributes:
-      label: 🌎 Country
-      description: What country do you live in?
-      placeholder: "Your country"
+      label: 🌎 What country do you live in?
+      description: For example, United States, United Kingdom, etc.
     validations:
       required: true
   - type: input
@@ -89,23 +86,20 @@ body:
     attributes:
       label: ⏰ Community Duration
       description: How long have you been a member of the JeriCraft community?
-      placeholder: "Your community duration"
     validations:
       required: true
   - type: input
     id: planet-minecraft
     attributes:
-      label: 📰 Planet Minecraft Account
-      description: Do you have a Planet Minecraft (PMC) account?
-      placeholder: "Your PMC account (if applicable)"
+      label: 📰 Planet Minecraft Account (if applicable)
+      description: Do you have a Planet Minecraft (PMC) account? If so, please provide the link, otherwise, type 'N/A'.
     validations:
       required: true
   - type: textarea
     id: account-access
     attributes:
       label: 👥 Account Access
-      description: Does anyone else have access to your Minecraft account?
-      placeholder: "Explain if anyone else has access to your account."
+      description: Does anyone else have access to your Minecraft account? (If yes, please explain, otherwise, type 'N/A'.).
     validations:
       required: true
   - type: textarea
@@ -113,7 +107,6 @@ body:
     attributes:
       label: 🗿 Why do you think you should become a builder?
       description: Explain why you think you should become a builder on the JeriCraft server.
-      placeholder: "Write your reason here"
     validations:
       required: true
   - type: textarea
@@ -121,23 +114,20 @@ body:
     attributes:
       label: ☭ Previous Builds
       description: Have you built anything on JeriCraft before?
-      placeholder: "Explain if you have built anything on JeriCraft before."
     validations:
       required: true
   - type: textarea
     id: building-style
     attributes:
       label: 🔨 Building Style
-      description: What is your preferred building style?
-      placeholder: "E.g. Modern, Medieval, Fantasy, etc."
+      description: What is your preferred building style? (E.g. Modern, Medieval, Fantasy, etc.)
     validations:
       required: true
   - type: textarea
     id: world-edit-experience
     attributes:
-      label: 💡 World Edit Experience
-      description: Do you have any experience with World Edit?
-      placeholder: "Explain your experience with World Edit."
+      label: 💡 World Edit Experience (if applicable)
+      description: Do you have any experience with World Edit? (If yes, please explain, otherwise, type 'N/A'.)
     validations:
       required: true
   - type: markdown
