@@ -25,11 +25,13 @@ body:
           > *You must provide the coordinates of each build.*
           > *Creative mode and World Edit are for Personal use only! You are not permitted to build for other players, period.*
         
+        
         **While in creative mode:**
           - You will not be able to pick up or drop items.
           - You will not be able to access (or place) anything with an inventory. I.e. chests, furnaces, dispensers, etc.
           - Certain commands will become disabled for you. Such as /sell hand and /ah sell.
           - Your creative inventory will be separate from your survival inventory.
+
 
         **Restricted access to World Edit:**
           - World Edit will be limited to regions that you own.
@@ -41,6 +43,7 @@ body:
         - 📝 Must read and agree to our [community rules](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/about-jericraft/Community%20Rules.md).
 
         **⚠️Do not make an application if you don't meet these requirements. You will be denied.⚠️️**
+        
         ---
   - type: checkboxes
     id: accept-rules
