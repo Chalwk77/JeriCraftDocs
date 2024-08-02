@@ -35,6 +35,11 @@ body:
         | 🛠️ **Moderator** | Moderators have access to all Trial-Mod commands and additional tools (🔧) for managing and resolving issues efficiently. |
         | ⚙️ **Admin (Administrator)** | Admins have access to all Moderator and Trial-Mod commands, along with advanced tools (⚙️) for server management and behind-the-scenes operations. |
         | 👑 **Owner** | The highest rank in the JeriCraft hierarchy, Owners have access to all staff commands (👑) and are responsible for overseeing the entire server. |
+        
+        # Staff Commands
+        Please familiarize yourself with the [staff commands](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/commands/STAFF-COMMANDS.md)
+        These commands are essential for moderating the server and resolving player-related issues.
+        
           ---
   - type: checkboxes
     id: accept-rules
