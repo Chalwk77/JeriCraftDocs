@@ -49,9 +49,7 @@ body:
       description: Please read and accept our community rules before proceeding.
       options:
         - label: Yes 👍
-          required: true
         - label: No ❌
-          required: true
   - type: input
     id: minecraft-discord-username
     attributes:
