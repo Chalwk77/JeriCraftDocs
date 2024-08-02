@@ -8,19 +8,19 @@
 ├── docs/
 │   ├── about-jericraft/
 │   │   ├── About.md
-│   │   ├── Bans.md
-│   │   ├── Community Rules.md
-│   │   ├── Discord Server.md
 │   │   ├── Events.md
-│   │   ├── In-Game Announcements.md
-│   │   ├── Kit Ideas.md
 │   │   ├── Maintenance Schedule.md
-│   │   ├── Quest Ideas.md
-│   │   └── Repo Structure.md
+│   ├── announcements/
+│   │   ├── In-Game Announcements.md
+│   ├── bans/
+│   │   ├── Bans.md
 │   ├── commands/
 │   │   ├── PERK-COMMANDS.md
 │   │   ├── PLAYER-COMMANDS.md
 │   │   └── STAFF-COMMANDS.md
+│   ├── discord-and-repo-structure/
+│   │   ├── Discord.md
+│   │   ├── Repo.md
 │   ├── features/
 │   │   └── AdditionalFeatures.md
 │   │   └── Main.md
@@ -35,6 +35,12 @@
 │   │   ├── RealisticSeasons.md
 │   │   ├── Regions.md
 │   │   └── Slimefun.md
+│   └── ideas/
+│   │   ├── Kit Ideas.md
+│   │   ├── Quest Ideas.md
+│   └── policies/
+│   │   ├── Community Rules.md
+│   │   └── Staff Guidelines.md
 │   └── webstore/
 │       ├── about.md
 │       └── perks.md
