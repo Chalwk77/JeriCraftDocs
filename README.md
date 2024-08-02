@@ -26,10 +26,7 @@
     - [Regions](docs/guides/Regions.md)
     - [Slimefun](docs/guides/Slimefun.md)
 5. [Perks](docs/webstore/)
-6. [Applications](docs/applications/)
-    - [Staff](docs/applications/Staff.md)
-    - [Builder](docs/applications/Builder.md)
-7. [Form Templates](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose)
+6. [Forms and Applications](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose)
     - [Ban Appeal](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Ban+Appeal&projects=&template=ban-appeal.yaml&title=Ban+Appeal+for%3A+%3Cname%3E)
     - [Bug Report](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Bug%2CNeeds+Triage&projects=&template=bug-report.yaml&title=%5BBUG%5D+%3Ctitle%3E)
     - [Builder Application](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Builder+Application&projects=&template=builder-application.yaml&title=Builder+Application+for%3A+%3Cname%3E)
@@ -37,8 +34,8 @@
     - [Report a Playter](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Report&projects=&template=player-report.yaml&title=%5BREPORT%5D+%3Coffender%3E)
     - [Server Suggestions](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Suggestion&projects=&template=server-suggestions.yaml&title=SUGGESTION%3A+%3Ctitle%3E)
     - [Staff Application](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=staff-application%2Cpending%2Cawaiting-review%2Cawaiting-interview&projects=&template=staff-application.yaml&title=Staff+Application+-+%5BYour+Name%5D)
-8. [Contributing](CONTRIBUTING.md)
-9. [License](LICENCE.md)
+7. [Contributing](CONTRIBUTING.md)
+8. [License](LICENCE.md)
  
 ─━━━━━━━━━━━━━━━━━━━━
 
