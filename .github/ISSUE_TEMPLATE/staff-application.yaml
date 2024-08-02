@@ -146,7 +146,7 @@ body:
     attributes:
       label: 🚨 You observe a player using unauthorized mods, such as fly mod or X-ray, to gain an unfair advantage.
       description: How would you handle this situation and ensure fair play on the server?
-      placeholder: ""
+      placeholder: " "
     validations:
       required: true
 #  - type: textarea
