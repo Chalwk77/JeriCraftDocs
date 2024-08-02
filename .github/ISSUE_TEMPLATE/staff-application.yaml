@@ -24,6 +24,7 @@ body:
         - 🎮 Must have a Discord account for communication purposes.
         - 🎤 Must have a working microphone.
         - 📝 Must read and agree to our [community rules](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/about-jericraft/Community%20Rules.md).
+        - 📚 Familiarize yourself with our [staff commands](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/commands/STAFF-COMMANDS.md) and [plugins](https://github.com/Chalwk77/JeriCraftDocs/tree/main/docs/features)
         - ⚠️Do not make an application if you don't meet these requirements. You will be denied.⚠️️
         
         ---
@@ -40,10 +41,6 @@ body:
         
         - 👑 **Owner / Senior Admin**
         > The highest rank in the JeriCraft hierarchy, Owners have access to all staff commands (👑) and are responsible for overseeing the entire server.
-        
-        ## Staff Commands:
-        Please familiarize yourself with the [staff commands](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/commands/STAFF-COMMANDS.md)
-        These commands are essential for moderating the server and resolving player-related issues.
         
         ---
   - type: checkboxes
