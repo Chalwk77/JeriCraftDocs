@@ -55,82 +55,77 @@ body:
     id: minecraft-discord-username
     attributes:
       label: 🎮 Minecraft/Discord Username
-      description: Provide your Minecraft and Discord usernames.
-      placeholder: "Your Minecraft and Discord Usernames"
+      description: Please provide your Minecraft and Discord usernames.
     validations:
       required: true
   - type: textarea
     id: about-yourself
     attributes:
       label: 🙋️ Tell us about yourself
-      description: Provide a brief introduction about yourself.
-      placeholder: "Tell us about yourself"
+      description: "Provide a brief introduction about yourself."
     validations:
       required: true
   - type: input
     id: age
     attributes:
-      label: 🎂 Age
-      description: How old are you?
-      placeholder: "Your age"
+      label: 🎂 How old are you?
+      description: You must be 17 or older to apply.
     validations:
       required: true
   - type: input
     id: timezone
     attributes:
-      label: 🌍 Timezone
-      description: What is your timezone?
-      placeholder: "*Please provide your timezone (e.g. UTC-5, GMT+1, etc.).*"
+      label: 🌍 What is your timezone?
+      description: "For example, UTC-5, GMT+1, etc."
     validations:
       required: true
   - type: textarea
     id: account-access
     attributes:
-      label: Does anyone else have access to your Minecraft account?
-      description: This is important for security reasons. If yes, please explain, otherwise, type "No".
+      label: 🔒 Does anyone else have access to your Minecraft account?
+      description: "This is important for security reasons. If yes, please explain, otherwise, type 'No'."
     validations:
       required: true
   - type: textarea
     id: minecraft-experience
     attributes:
       label: 🎮 Minecraft Experience
-      description: Tell us about your experience with Minecraft, including any previous staff positions you've held.
+      description: "Tell us about your experience with Minecraft, including any previous staff positions you've held."
     validations:
       required: true
   - type: textarea
     id: contribution
     attributes:
       label: 🎁 What will you provide to our community if granted moderator status?
-      description: Explain what you can offer to the community as a staff member.
+      description: "Explain how you can contribute to the server and help improve the player experience."
     validations:
       required: true
   - type: textarea
     id: availability
     attributes:
       label: 🕒 Availability
-      description: Provide your availability and the hours you can dedicate to the server.
-      placeholder: "Your availability"
+      description: "Provide your availability and the hours you can dedicate to the server."
     validations:
       required: true
   - type: textarea
     id: hacked-client
     attributes:
       label: 🚫 Have you ever used a hacked client before?
-      description: If yes, please explain. Otherwise, type "No".
+      description: "If yes, please explain. Otherwise, type 'No'."
     validations:
       required: true
   - type: textarea
     id: minecraft-ban
     attributes:
       label: ⛔ Have you ever been banned on a Minecraft server?
-      description: If yes, please explain. Otherwise, type "No".
+      description: "If yes, please explain. Otherwise, type 'No'."
     validations:
       required: true
   - type: textarea
     id: strengths-weaknesses
     attributes:
       label: 💪 What are your strengths and weaknesses?
-      description: Provide details about your strengths and weaknesses.
+      description: "Provide details about your strengths and weaknesses."
     validations:
       required: true
   - type: markdown
@@ -145,104 +140,104 @@ body:
     id: scenario_1
     attributes:
       label: 1. You observe a player using unauthorized mods, such as fly mod or X-ray, to gain an unfair advantage.
-      placeholder: "How would you handle this situation and ensure fair play on the server?"
+      description: "How would you handle this situation and ensure fair play on the server?"
     validations:
       required: true
   - type: textarea
     id: scenario_2
     attributes:
       label: 2. A player is sharing links and promoting another server in the chat, attempting to divert players away from your server.
-      placeholder: "How would you address this issue and enforce the server's rules?"
+      description: "How would you address this issue and enforce the server's rules?"
     validations:
       required: true
   - type: textarea
     id: scenario_3
     attributes:
       label: 3. A player is repeatedly sending messages in quick succession, disrupting the chat, and causing frustration for other players.
-      placeholder: "How would you intervene and maintain a positive chat environment?"
+      description: "How would you intervene and maintain a positive chat environment?"
     validations:
       required: true
   - type: textarea
     id: scenario_4
     attributes:
       label: 4. You notice a player using disrespectful language or behavior towards staff members or other players.
-      placeholder: "What steps would you take to address their actions and promote a friendly community atmosphere?"
+      description: "What steps would you take to address their actions and promote a friendly community atmosphere?"
     validations:
       required: true
   - type: textarea
     id: scenario_5
     attributes:
       label: 5. A player is intentionally destroying or vandalizing another player's build without permission.
-      placeholder: "How would you manage this situation and ensure that players' hard work is protected?"
+      description: "How would you manage this situation and ensure that players' hard work is protected?"
     validations:
       required: true
   - type: textarea
     id: scenario_6
     attributes:
       label: 6. A player reports a bug or glitch in the game.
-      placeholder: "How would you handle this situation?"
+      description: "How would you handle this situation?"
     validations:
       required: true
   - type: textarea
     id: scenario_7
     attributes:
       label: 7. Two players are arguing in chat, and it's starting to disrupt the community.
-      placeholder: "How would you intervene and resolve the conflict?"
+      description: "How would you intervene and resolve the conflict?"
     validations:
       required: true
   - type: textarea
     id: scenario_8
     attributes:
       label: 8. You notice a player has found a loophole in the rules.
-      placeholder: "How would you address this situation and prevent future rule violations?"
+      description: "How would you address this situation and prevent future rule violations?"
     validations:
       required: true
   - type: textarea
     id: scenario_9
     attributes:
       label: 9. A new player is having difficulty understanding the rules or navigating the server.
-      placeholder: "How would you assist them?"
+      description: "How would you assist them?"
     validations:
       required: true
   - type: textarea
     id: scenario_10
     attributes:
       label: 10. A player claims they were falsely punished by another staff member.
-      placeholder: "How would you handle this situation and ensure fairness?"
+      description: "How would you handle this situation and ensure fairness?"
     validations:
       required: true
   - type: textarea
     id: scenario_11
     attributes:
       label: 11. A player accuses a staff member of abusing their powers.
-      placeholder: "How would you investigate the situation and address the accusation?"
+      description: "How would you investigate the situation and address the accusation?"
     validations:
       required: true
   - type: textarea
     id: scenario_12
     attributes:
       label: 12. You receive multiple reports of players using unauthorized mods.
-      placeholder: "How would you investigate the issue and enforce the rules?"
+      description: "How would you investigate the issue and enforce the rules?"
     validations:
       required: true
   - type: textarea
     id: scenario_13
     attributes:
       label: 13. The server is experiencing a significant drop in player activity.
-      placeholder: "How would you work with the staff team to identify the cause and boost engagement?"
+      description: "How would you work with the staff team to identify the cause and boost engagement?"
     validations:
       required: true
   - type: textarea
     id: scenario_14
     attributes:
       label: 14. A player is found to be account sharing.
-      placeholder: "What actions would you take to address the issue?"
+      description: "What actions would you take to address the issue?"
     validations:
       required: true
   - type: textarea
     id: scenario_15
     attributes:
       label: 15. A group of players is using the server for purposes not aligned with its intended use (e.g., inappropriate roleplay).
-      placeholder: "How would you address this issue and maintain the server's integrity?"
+      description: "How would you address this issue and maintain the server's integrity?"
     validations:
       required: true
