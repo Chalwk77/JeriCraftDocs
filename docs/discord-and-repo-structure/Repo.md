@@ -5,6 +5,15 @@
 ```
 .
 ├── assets/
+├── .github/
+│   ├── ban-appeal.yaml
+│   ├── bug-report.yaml
+│   ├── builder-application.yaml
+│   ├── complaints.yaml
+│   ├── player-report.yaml
+│   ├── server-suggestions.yaml
+│   ├── staff-application.yaml
+│   ├── FUNDING.yaml
 ├── docs/
 │   ├── about-jericraft/
 │   │   ├── About.md
@@ -39,8 +48,8 @@
 │   │   ├── Kit Ideas.md
 │   │   ├── Quest Ideas.md
 │   └── policies/
-│   │   ├── Community Rules.md
-│   │   └── Staff Guidelines.md
+│   │   ├── Community-Rules.md
+│   │   └── Staff-Guidelines.md
 │   └── webstore/
 │       ├── about.md
 │       └── perks.md
