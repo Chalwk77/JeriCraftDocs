@@ -24,9 +24,9 @@ body:
         - 🎤 Must have a working microphone.
         - 📝 Must read and agree to our [community rules](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/about-jericraft/Community%20Rules.md).
         - Must have a Discord account for communication purposes.
-
-        **⚠️Do not make an application if you don't meet these requirements. You will be denied.⚠️️**
+        - ⚠️Do not make an application if you don't meet these requirements. You will be denied.⚠️️
         
+        ---
         
         # Staff Rank Hierarchy:
         - 🏵️ **Trial-Mod (Trial Moderator)**
@@ -45,7 +45,7 @@ body:
         Please familiarize yourself with the [staff commands](https://github.com/Chalwk77/JeriCraftDocs/blob/main/docs/commands/STAFF-COMMANDS.md)
         These commands are essential for moderating the server and resolving player-related issues.
         
-          ---
+        ---
   - type: checkboxes
     id: accept-rules
     attributes:
