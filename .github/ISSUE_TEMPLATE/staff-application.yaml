@@ -158,115 +158,94 @@ body:
       description: How would you address this issue and enforce the server's rules?
     validations:
       required: true
-#  - type: textarea
-#    id: scenario_2
-#    attributes:
-#      label: 🚨 A player is sharing links and promoting another server in the chat, attempting to divert players away from your server.
-#      description: How would you address this issue and enforce the server's rules?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_3
-#    attributes:
-#      label: 🚨 A player is repeatedly sending messages in quick succession, disrupting the chat, and causing frustration for other players.
-#      description: How would you intervene and maintain a positive chat environment?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_4
-#    attributes:
-#      label: 🚨 You notice a player using disrespectful language or behavior towards staff members or other players.
-#      description: What steps would you take to address their actions and promote a friendly community atmosphere?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_5
-#    attributes:
-#      label: 🚨 A player is intentionally destroying or vandalizing another player's build without permission.
-#      description: How would you manage this situation and ensure that players' hard work is protected?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_6
-#    attributes:
-#      label: 🚨 A player reports a bug or glitch in the game.
-#      description: How would you handle this situation?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_7
-#    attributes:
-#      label: 🚨 Two players are arguing in chat, and it's starting to disrupt the community.
-#      description: How would you intervene and resolve the conflict?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_8
-#    attributes:
-#      label: 🚨 You notice a player has found a loophole in the rules.
-#      description: What steps would you take to address the issue and update the rules?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_9
-#    attributes:
-#      label: 🚨 A new player is having difficulty understanding the rules or navigating the server.
-#      description: How would you assist them?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_10
-#    attributes:
-#      label: 🚨 A player claims they were falsely punished by another staff member.
-#      description: How would you approach this situation?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_11
-#    attributes:
-#      label: 🚨 A player accuses a staff member of abusing their powers.
-#      description: How would you handle this situation and ensure fairness?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_12
-#    attributes:
-#      label: 🚨 You receive multiple reports of players using unauthorized mods.
-#      description: How would you investigate the issue and enforce the rules?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_13
-#    attributes:
-#      label: 🚨 The server is experiencing a significant drop in player activity.
-#      description: How would you work with the staff team to identify the cause and boost engagement?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_14
-#    attributes:
-#      label: 🚨 A player is found to be account sharing.
-#      description: What actions would you take to address the issue?
-#      placeholder: ""
-#    validations:
-#      required: true
-#  - type: textarea
-#    id: scenario_15
-#    attributes:
-#      label: 🚨 A group of players is using the server for purposes not aligned with its intended use (e.g., inappropriate roleplay).
-#      description: How would you handle this situation?
-#      placeholder: ""
-#    validations:
-#      required: true
+  - type: textarea
+    id: scenario_3
+    attributes:
+      label: 3. A player is repeatedly sending messages in quick succession, disrupting the chat, and causing frustration for other players.
+      description: How would you intervene and maintain a positive chat environment?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_4
+    attributes:
+      label: 4. You notice a player using disrespectful language or behavior towards staff members or other players.
+      description: What steps would you take to address their actions and promote a friendly community atmosphere?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_5
+    attributes:
+      label: 5. A player is intentionally destroying or vandalizing another player's build without permission.
+      description: How would you manage this situation and ensure that players' hard work is protected?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_6
+    attributes:
+      label: 6. A player reports a bug or glitch in the game.
+      description: How would you handle this situation?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_7
+    attributes:
+      label: 7. Two players are arguing in chat, and it's starting to disrupt the community.
+      description: How would you intervene and resolve the conflict?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_8
+    attributes:
+      label: 8. You notice a player has found a loophole in the rules.
+      description: What steps would you take to address the issue and update the rules?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_9
+    attributes:
+      label: 9. A new player is having difficulty understanding the rules or navigating the server.
+      description: How would you assist them?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_10
+    attributes:
+      label: 10. A player claims they were falsely punished by another staff member.
+      description: How would you approach this situation?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_11
+    attributes:
+      label: 11. A player accuses a staff member of abusing their powers.
+      description: How would you handle this situation and ensure fairness?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_12
+    attributes:
+      label: 12. You receive multiple reports of players using unauthorized mods.
+      description: How would you investigate the issue and enforce the rules?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_13
+    attributes:
+      label: 13. The server is experiencing a significant drop in player activity.
+      description: How would you work with the staff team to identify the cause and boost engagement?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_14
+    attributes:
+      label: 14. A player is found to be account sharing.
+      description: What actions would you take to address the issue?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_15
+    attributes:
+      label: 15. A group of players is using the server for purposes not aligned with its intended use (e.g., inappropriate roleplay).
+      description: How would you handle this situation?
+    validations:
+      required: true
