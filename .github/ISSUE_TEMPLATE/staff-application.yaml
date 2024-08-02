@@ -142,10 +142,10 @@ body:
         # 📌 Scenario Questions (test your knowledge):
         > This is a test to see if you understand the rules and how to handle situations as a staff member.
   - type: textarea
-    id: test
+    id: scenario_1
     attributes:
       label: 💪 What are your strengths and weaknesses?
-      description: Provide details about your strengths and weaknesses.
+      description: How would you handle this situation and ensure fair play on the server?
     validations:
       required: true
 #  - type: textarea
