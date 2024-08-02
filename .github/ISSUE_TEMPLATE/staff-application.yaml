@@ -139,7 +139,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        # 📌 Scenario Questions (test your knowledge):
+        # 🚨 Scenario Questions (test your knowledge):
         > This is a test to see if you understand the rules and how to handle situations as a staff member.
         
         ---
@@ -147,8 +147,15 @@ body:
   - type: textarea
     id: scenario_1
     attributes:
-      label: 🚨 You observe a player using unauthorized mods, such as fly mod or X-ray, to gain an unfair advantage.
+      label: 1. You observe a player using unauthorized mods, such as fly mod or X-ray, to gain an unfair advantage.
       description: How would you handle this situation and ensure fair play on the server?
+    validations:
+      required: true
+  - type: textarea
+    id: scenario_2
+    attributes:
+      label: 2. A player is sharing links and promoting another server in the chat, attempting to divert players away from your server.
+      description: How would you address this issue and enforce the server's rules?
     validations:
       required: true
 #  - type: textarea
