@@ -136,7 +136,6 @@ body:
       description: Provide details about your strengths and weaknesses.
     validations:
       required: true
-
   - type: markdown
     attributes:
       value: |
