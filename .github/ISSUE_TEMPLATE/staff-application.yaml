@@ -51,7 +51,6 @@ body:
         - label: Yes 👍
           required: true
         - label: No ❌
-          required: true
   - type: input
     id: minecraft-discord-username
     attributes:
