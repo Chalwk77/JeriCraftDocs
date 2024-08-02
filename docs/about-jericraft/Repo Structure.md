@@ -14,6 +14,7 @@
 │   │   ├── Events.md
 │   │   ├── In-Game Announcements.md
 │   │   ├── Kit Ideas.md
+│   │   ├── Maintenance Schedule.md
 │   │   ├── Quest Ideas.md
 │   │   └── Repo Structure.md
 │   ├── commands/
