@@ -141,11 +141,38 @@ body:
       value: |
         **📌 Scenario Questions (test your knowledge)**
         > This is a test to see if you understand the rules and how to handle situations as a staff member.
-        > 1. *Someone is hacking (fly mod, x-ray, etc.), what do you do?*
-        > 2. *Someone is advertising another server. What do you do?*
-        > 3. Someone is spamming in chat, what do you do?
-        > 4. Someone is being disrespectful to staff or other players, what do you do?
-        > 5. Someone is griefing another player's build, what do you do?
+        
+        ---
+        
+        > **1.** You observe a player using unauthorized mods, such as fly mod or X-ray, to gain an unfair advantage.
+             How would you handle this situation and ensure fair play on the server?
+        > **2.** A player is sharing links and promoting another server in the chat, attempting to divert players away from your server.
+             How would you address this issue and enforce the server's rules?
+        > **3.** A player is repeatedly sending messages in quick succession, disrupting the chat, and causing frustration for other players.
+             How would you intervene and maintain a positive chat environment?
+        > **4.** You notice a player using disrespectful language or behavior towards staff members or other players.
+             What steps would you take to address their actions and promote a friendly community atmosphere?
+        > **5.** A player is intentionally destroying or vandalizing another player's build without permission.
+             How would you manage this situation and ensure that players' hard work is protected?
+        > **6.** A player reports a bug or glitch in the game. How would you handle this situation?
+        > **7.** Two players are arguing in chat, and it's starting to disrupt the community.
+             How would you intervene and resolve the conflict?
+        > **8.** You notice a player has found a loophole in the rules.
+             What steps would you take to address the issue and update the rules?
+        > **9.** A new player is having difficulty understanding the rules or navigating the server.
+             How would you assist them?
+        > **10.** A player claims they were falsely punished by another staff member.
+             How would you approach this situation?
+        > **11.** A player accuses a staff member of abusing their powers.
+             How would you handle this situation and ensure fairness?
+        > **12.** You receive multiple reports of players using unauthorized mods.
+             How would you investigate the issue and enforce the rules?
+        > **13.** The server is experiencing a significant drop in player activity.
+             How would you work with the staff team to identify the cause and boost engagement?
+        > **14.** A player is found to be account sharing.
+             What actions would you take to address the issue?
+        > **15.** A group of players is using the server for purposes not aligned with its intended use (e.g., inappropriate roleplay).
+             How would you handle this situation?
   - type: textarea
     id: scenarios
     attributes:
