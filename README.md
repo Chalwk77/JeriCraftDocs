@@ -25,7 +25,7 @@
     - [RealisticSeasons](docs/guides/RealisticSeasons.md)
     - [Regions](docs/guides/Regions.md)
     - [Slimefun](docs/guides/Slimefun.md)
-5. [Perks](docs/webstore/)
+5. [Perks / Webstore](docs/webstore/)
 6. [Forms and Applications](https://github.com/Chalwk77/JeriCraftDocs/issues/new/choose)
     - [Ban Appeal](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Ban+Appeal&projects=&template=ban-appeal.yaml&title=Ban+Appeal+for%3A+%3Cname%3E)
     - [Bug Report](https://github.com/Chalwk77/JeriCraftDocs/issues/new?assignees=Chalwk77&labels=Bug%2CNeeds+Triage&projects=&template=bug-report.yaml&title=%5BBUG%5D+%3Ctitle%3E)

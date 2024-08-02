@@ -1,25 +1,15 @@
 This list is periodically updated. If you find any errors or omissions, please contact our staff team. JeriCraft uses a
 hierarchy of ranks to organize players. Here's an overview of our ranks and their respective privileges:
 
-🏠 **Guest**: All players start as Guests and have access to the following basic commands: `/msg`, `/tpa`, `/warp`, and
-more. These default commands are available to every player, regardless of rank.
-
-👥 **Member**: Obtained after 1 month of playtime (or by joining our Discord Server). Members have access to additional
-commands like `/setwarp`, `/hat`, and `/sit`.
-
-🏗️ **Builder**: Builders gain access to World Edit and Creative mode (application required).
-
-💰 **Squire (Donor Rank)**: Promoted after spending **$1-$19** on our web store. Squires enjoy access to all commands
-available to Members and Guests.
-
-🔱 **Titan (Donor Rank)**: Promoted after spending **$20-$39** on our web store. Titans enjoy access to all commands
-available to Squires, Members, and Guests.
-
-⚔️ **Mortal (Donor Rank)**: Promoted after spending **$40-$59** on our web store. Mortals enjoy access to all commands
-available to Titans, Squires, Members, and Guests.
-
-💎 **Elder (Donor Rank)**: Promoted after spending **$60+** on our web store. Elders enjoy access to all commands
-available to Mortals, Titans, Squires, Members, and Guests.
+| **Rank**     | **Description**                                                                                                                                                                 |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🏠 Guest     | All players start as Guests and have access to basic commands like `/msg`, `/tpa`, `/warp`, and more. These default commands are available to every player, regardless of rank. |
+| 👥 Member    | Obtained after 1 month of playtime (or by joining our Discord Server). Members have access to additional commands like `/setwarp`, `/hat`, and `/sit`.                          |
+| 🏗️ ️Builder | Builders gain access to World Edit and Creative mode (application required).                                                                                                    |
+| 💰 Squire    | Promoted after spending **$1-$19** on our web store. Squires enjoy access to all commands available to Members and Guests.                                                      |
+| 🔱 Titan     | Promoted after spending **$20-$39** on our web store. Titans enjoy access to all commands available to Squires, Members, and Guests.                                            |
+| ⚔️ Mortal    | Promoted after spending **$40-$59** on our web store. Mortals enjoy access to all commands available to Titans, Squires, Members, and Guests.                                   |
+| 💎 Elder     | Promoted after spending **$60+** on our web store. Elders enjoy access to all commands available to Mortals, Titans, Squires, Members, and Guests.                              |
 
 **Each rank inherits the commands and perks of the ranks below it, ensuring a structured and organized player
 experience.**
@@ -28,6 +18,10 @@ experience.**
 Some commands might be displayed with a line through them, like ~~this~~.<br>
 These crossed-out commands are temporarily unavailable and may return in the future.<br> 
 Keep an eye on our updates for any changes to command availability.
+
+---
+
+# Player Commands:
 
 | **Rank**  | **Command**                                                                               | **Description**                                                                                                                                                                                                                              | **Permission Node(s)**                                                                                                                  |
 |-----------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -117,7 +111,7 @@ Keep an eye on our updates for any changes to command availability.
 | Member    | ride                                                                                      | Allows you to ride entities                                                                                                                                                                                                                  | `cmi.command.ride`                                                                                                                      |
 | Member    | hat                                                                                       | Place item you're holding on your head                                                                                                                                                                                                       | `cmi.command.hat`                                                                                                                       |
 | Member    | sit                                                                                       | Allows you to sit on stairs, carpet and slabs                                                                                                                                                                                                | `cmi.command.sit`, `cmi.command.sit.stairs`, `cmi.command.slabs`                                                                        |
-| Member    | setwarp `(warpName)`                                                                      | Sets a new warp                                                                                                                                                                                                                              | `cmi.command.setwarp`, `cmi.command.setwarp.5`, `cmi.command.warp.redefine`                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+| Member    | setwarp `(warpName)`                                                                      | Sets a new warp                                                                                                                                                                                                                              | `cmi.command.setwarp`, `cmi.command.setwarp.5`, `cmi.command.warp.redefine`                                                             |
 | Builder   | gm s                                                                                      | Sets your gamemode to survival                                                                                                                                                                                                               | `cmi.command.gm`, `cmi.command.gm.survival`                                                                                             |
 | Builder   | gm c                                                                                      | Sets your gamemode to creative                                                                                                                                                                                                               | `cmi.command.gm.creative`                                                                                                               |
 | Builder   | help                                                                                      | Shows a list of World Edit commands                                                                                                                                                                                                          | `worldedit.help`                                                                                                                        |
