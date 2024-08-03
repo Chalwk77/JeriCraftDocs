@@ -16,35 +16,44 @@ We will not reverse bans for appeals that are made due to being banned while on 
 ### MINECRAFT SERVER RULES
 To ensure a fun and enjoyable experience for all players, please adhere to the following rules:
 
-- **No Griefing**: Respect other players' builds and property on the server.
-- **No Hacked Clients**: Play fairly without using exploits, hacks, or mods that provide an unfair advantage.
-- **No Scamming/Exploiting**: Be honest and transparent in your interactions with other players.
-- **Obey Staff**: Listen to and cooperate with staff members when given guidance or directions.
-- **No Spamming or Advertising**: Avoid disrupting conversations or hindering other players' experiences.
-- **Keep Chat Family-Friendly**: Maintain a friendly and respectful atmosphere in the chat.
-- **No Arguing**: Refrain from engaging in disputes or heated disagreements with other players.
-- **No Explicit Language**: Use appropriate language and avoid swearing or offensive content.
-- **No Begging**: Respect others' decisions and avoid asking for favors excessively.
-- **No OP Requests**: Operator status is not granted upon request.
-- **No Perk Abuse**: Use any perks or benefits responsibly and as intended.
-- **Report Exploits/Bugs ASAP**: Help maintain the server's integrity by promptly reporting any issues or exploits you discover.
-- **No Game Mechanic Abuse**: Play the game as intended and avoid exploiting game mechanics.
-- **No Offensive Builds**: Refrain from creating builds or signs that may offend or harass other players.
-- **No Filter Bypassing**: Respect the server's chat filters and avoid trying to circumvent them.
-- **No Trolling**: Avoid actions that are intended to provoke or upset other players.
-- **Keep Personal Information Private**: Avoid sharing sensitive or personal information in the chat.
-- **No Controversial Topics**: Refrain from discussing controversial topics such as drama, politics, or religion in the chat.
-- **Non-Consensual PVP**: Engaging in player-versus-player combat without the other player's consent.
-- **Non-Consensual Teleportation**: Teleporting players without their permission.
+**Tier 1: Severe Offenses - Permanent Ban**
+- Report Exploits/Bugs ASAP: Help maintain the server's integrity by promptly reporting any issues or exploits you discover.
+- No Game Mechanic Abuse: Play the game as intended and avoid exploiting game mechanics.
+- No Offensive Builds: Refrain from creating builds or signs that may offend or harass other players.
+- No Filter Bypassing: Respect the server's chat filters and avoid trying to circumvent them.
+- No Trolling: Avoid actions that are intended to provoke or upset other players.
+- Keep Personal Information Private: Avoid sharing sensitive or personal information in the chat.
+- No Controversial Topics: Refrain from discussing controversial topics such as drama, politics, or religion in the chat.
+
+**Tier 2: Moderate Offenses (1 to 2-week ban)**
+- No Griefing: Respect other players' builds and property on the server.
+- No Hacked Clients: Play fairly without using exploits, hacks, or mods that provide an unfair advantage.
+- No Scamming/Exploiting: Be honest and transparent in your interactions with other players.
+
+**Tier 3: Minor Offenses (Up to 1-week ban)**
+- Obey Staff: Listen to and cooperate with staff members when given guidance or directions.
+- No Spamming or Advertising: Avoid disrupting conversations or hindering other players' experiences.
+- Keep Chat Family-Friendly: Maintain a friendly and respectful atmosphere in the chat.
+- No Arguing: Refrain from engaging in disputes or heated disagreements with other players.
+- No Explicit Language: Use appropriate language and avoid swearing or offensive content.
+- No Begging: Respect others' decisions and avoid asking for favors excessively.
+- No OP Requests: Operator status is not granted upon request.
+- No Perk Abuse: Use any perks or benefits responsibly and as intended.
+
+**Additional Rules**
+- Non-Consensual PVP: Engaging in player-versus-player combat without the other player's consent.
+- Non-Consensual Teleportation: Teleporting players without their permission.
 
 Thank you for your cooperation and for helping to create a fun and welcoming community for all players!
+
+---
 
 ### Tiered Punishment System:
 To maintain a fair and enjoyable environment for all JeriCraft players, we employ a tiered punishment system. The consequences for each tier are at the discretion of the staff member issuing the punishment.
 
 #### Tier 1: Severe Offenses - Permanent Ban
 
-**Offenses in this tier may result in a permanent ban.**
+Offenses in this tier may result in a permanent ban.
 
 - **Unfair Advantages:** Utilizing external programs, devices, exploits, bug abuse, or hacking to gain an unfair advantage in gameplay.
 - **Deception and Scamming:** Engaging in deceptive actions or scams that negatively impact other players.
@@ -56,7 +65,7 @@ To maintain a fair and enjoyable environment for all JeriCraft players, we emplo
 
 #### Tier 2: Moderate Offenses - 1 to 2-week Ban
 
-**Offenses in this tier may result in a ban of 1 to 2 weeks, depending on severity.**
+Offenses in this tier may result in a ban of 1 to 2 weeks, depending on severity.
 
 - **Property Damage and Vandalism:** Altering or destroying others' builds without permission (griefing), or creating offensive structures or signs.
 - **Inappropriate Content:** Sharing or displaying content containing nudity, gore, or offensive material, including inappropriate skins or posting such content on Discord.
@@ -67,12 +76,14 @@ To maintain a fair and enjoyable environment for all JeriCraft players, we emplo
 
 #### Tier 3: Minor Offenses - Up to 1-week Ban
 
-**Offenses in this tier may result in a ban of up to 1 week, at the staff's discretion.**
+Offenses in this tier may result in a ban of up to 1 week, at the staff's discretion.
 
-- Unwanted Communication:** Sending unsolicited content or repeatedly posting irrelevant messages that disrupt chat, such as false reports or commercial spam in-game or on Discord.
-- Inappropriate Roleplay:** Participating in roleplay scenarios that include offensive or inappropriate themes.
-- Misuse of Slang:** Employing abusive slang in non-targeted ways that could offend others on the server or Discord.
-- Inappropriate Conversations:** Discussing content or themes that are deemed inappropriate or unsuitable for the server's community on any platform.
+- **Unwanted Communication:** Sending unsolicited content or repeatedly posting irrelevant messages that disrupt chat, such as false reports or commercial spam in-game or on Discord.
+- **Inappropriate Roleplay:** Participating in roleplay scenarios that include offensive or inappropriate themes.
+- **Misuse of Slang:** Employing abusive slang in non-targeted ways that could offend others on the server or Discord.
+- **Inappropriate Conversations:** Discussing content or themes that are deemed inappropriate or unsuitable for the server's community on any platform.
+
+---
 
 #### Subsequent Offenses
 Repeated rule violations will result in escalating consequences as part of a tiered punishment system. If you have been penalized for an offense and continue to engage in similar behavior after the ban expires, you will face a more severe punishment within the respective tier.
