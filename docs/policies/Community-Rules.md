@@ -24,25 +24,31 @@ To ensure a fun and enjoyable experience for all players, please adhere to the f
 - No Trolling: Avoid actions that are intended to provoke or upset other players.
 - Keep Personal Information Private: Avoid sharing sensitive or personal information in the chat.
 - No Controversial Topics: Refrain from discussing controversial topics such as drama, politics, or religion in the chat.
+- No Lag Machines or Intentional Server Overloading: Refrain from creating or using mechanisms or exploits that cause significant lag or intentionally overload the server.
+- No Inappropriate Skins or Usernames: Use appropriate and non-offensive skins and usernames that adhere to the server's family-friendly atmosphere.
+- No Bypassing World Borders: Respect the established world borders and avoid using exploits or glitches to bypass them.
 
 **Tier 2: Moderate Offenses (1 to 2-week ban)**
 - No Griefing: Respect other players' builds and property on the server.
 - No Hacked Clients: Play fairly without using exploits, hacks, or mods that provide an unfair advantage.
 - No Scamming/Exploiting: Be honest and transparent in your interactions with other players.
+- Non-Consensual Actions: Refrain from engaging in player-versus-player combat or teleporting players without their consent.
+- No Impersonation: Do not impersonate staff members, other players, or public figures to mislead or cause confusion.
+- No Account Sharing: Keep your account secure by not sharing your login credentials with other players.
 
 **Tier 3: Minor Offenses (Up to 1-week ban)**
 - Obey Staff: Listen to and cooperate with staff members when given guidance or directions.
 - No Spamming or Advertising: Avoid disrupting conversations or hindering other players' experiences.
 - Keep Chat Family-Friendly: Maintain a friendly and respectful atmosphere in the chat.
-- No Arguing: Refrain from engaging in disputes or heated disagreements with other players.
+- Respectful Communication: Refrain from engaging in disputes, heated disagreements, and excessive begging or favor-asking.
 - No Explicit Language: Use appropriate language and avoid swearing or offensive content.
-- No Begging: Respect others' decisions and avoid asking for favors excessively.
 - No OP Requests: Operator status is not granted upon request.
 - No Perk Abuse: Use any perks or benefits responsibly and as intended.
-
-**Additional Rules**
-- Non-Consensual PVP: Engaging in player-versus-player combat without the other player's consent.
-- Non-Consensual Teleportation: Teleporting players without their permission.
+- Respect Player Boundaries: Abstain from encroaching on areas that are claimed, owned, or occupied by other players without their permission.
+- No Afk (Away from Keyboard) Farms or Exploits: Avoid using automated methods or exploits to gain an unfair advantage while being away from the game.
+- Follow Event and Minigame Rules: Participate in server events and minigames while adhering to any specific rules or guidelines set for them.
+- No Block or Mob Spawner Hoarding: Allow for fair resource distribution by not hoarding a disproportionate number of block or mob spawners.
+- Report Suspicious Behavior: Help maintain a fair and safe environment by reporting any suspicious or rule-breaking behavior to the staff.
 
 Thank you for your cooperation and for helping to create a fun and welcoming community for all players!
 
