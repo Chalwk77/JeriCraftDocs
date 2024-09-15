@@ -9,7 +9,7 @@ body:
       value: |
         This form is intended for individuals interested in applying for a builder position.
         Please take your time to provide detailed and accurate information.
-        
+
         Please note that we will review applications as soon as possible, and you will be contacted if your application is selected for further consideration.
 
         # JeriCraft Builder Requirements:
@@ -26,10 +26,10 @@ body:
           > *These builds must be done on the server and have different styles and themes.*
           > *You must provide the coordinates of each build.*
           > *Creative mode and World Edit are for Personal use only! You are not permitted to build for other players, period.*
-        - ⚠️Do not make an application if you don't meet these requirements. You will be denied.⚠️️
-        
+        - ⚠️ Do not make an application if you don't meet these requirements. You will be denied. ⚠️
+
         ---
-        
+
         **While in creative mode:**
           - You will not be able to pick up or drop items.
           - You will not be able to access (or place) anything with an inventory. I.e. chests, furnaces, dispensers, etc.
@@ -52,6 +52,8 @@ body:
       options:
         - label: Yes 👍
         - label: No ❌
+    validations:
+      required: true
   - type: input
     id: minecraft-discord-username
     attributes:
@@ -98,7 +100,7 @@ body:
     id: account-access
     attributes:
       label: 👥 Account Access
-      description: Does anyone else have access to your Minecraft account? (If yes, please explain, otherwise, type 'N/A'.).
+      description: Does anyone else have access to your Minecraft account? (If yes, please explain, otherwise, type 'N/A'.)
     validations:
       required: true
   - type: textarea

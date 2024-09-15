@@ -34,7 +34,7 @@ New to JeriCraft? Start your journey with these helpful commands:
     - 🎯 `/mcmmo`: View and manage your RPG skills and stats.
 
 - **Slimefun Guide**
-    - 🧪 `/sf guide`: Obtain the Slimedfun guidebook for crafting recipes and information.
+    - 🧪 `/sf guide`: Obtain the Slimefun guidebook for crafting recipes and information.
     - 🧪 `/sf wiki`: Access the Slimefun wiki for additional information.
 
 - **Miscellaneous**
