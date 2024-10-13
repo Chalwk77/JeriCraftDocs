@@ -1,7 +1,8 @@
 # Repository Overview
 
-The JeriCraft GitHub repository is organized into various directories, each serving a specific purpose.<br>
-Below is a detailed outline of the repository structure:
+### The JeriCraft GitHub repository is organized into various directories, each serving a specific purpose.
+#### Below is a detailed outline of the repository structure:
+
 ---
 
 ```
